@@ -19,7 +19,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25286
+            "stars": 25287
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Wikitext",
-            "last_commit": "2026-08-13T04:22:56Z",
+            "last_commit": "2026-08-15T00:05:26Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10910
+            "stars": 10913
           }
         }
       ],
@@ -189,10 +189,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Solidity",
-                "last_commit": "2026-08-13T21:02:04Z",
+                "last_commit": "2026-08-14T17:12:41Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27215
+                "stars": 27217
               }
             },
             {
@@ -238,7 +238,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T04:29:26Z",
+                "last_commit": "2026-08-14T20:54:24Z",
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 13951
@@ -252,7 +252,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T04:29:26Z",
+                "last_commit": "2026-08-14T20:54:24Z",
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 13951
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5660
+            "stars": 5658
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2024-06-20T18:03:44Z",
             "owner": "Jeiwan",
             "repo": "blockchain_go",
-            "stars": 4372
+            "stars": 4373
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23054
+            "stars": 23052
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23054
+            "stars": 23052
           }
         },
         {
@@ -539,7 +539,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T00:36:32Z",
+            "last_commit": "2026-08-15T00:22:33Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1236
@@ -614,7 +614,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25286
+            "stars": 25287
           }
         },
         {
@@ -730,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:56:38.900Z",
+    "last_updated": "2026-08-15T03:47:32.091Z",
     "original_repository": "yjjnls/awesome-blockchain",
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
     "enhanced_repository": "enhansome/enhansome-blockchain",
