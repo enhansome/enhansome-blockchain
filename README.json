@@ -19,7 +19,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25288
+            "stars": 25291
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-15T00:05:26Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10914
+            "stars": 10916
           }
         }
       ],
@@ -53,7 +53,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21517
+            "stars": 21514
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21517
+            "stars": 21514
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5658
+            "stars": 5657
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2022-03-17T15:41:17Z",
             "owner": "nambrot",
             "repo": "blockchain-in-js",
-            "stars": 1135
+            "stars": 1134
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053
+            "stars": 23056
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053
+            "stars": 23056
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25288
+            "stars": 25291
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21517
+            "stars": 21514
           }
         },
         {
@@ -730,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:54:41.337Z",
+    "last_updated": "2026-08-17T03:56:59.731Z",
     "original_repository": "yjjnls/awesome-blockchain",
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
     "enhanced_repository": "enhansome/enhansome-blockchain",
