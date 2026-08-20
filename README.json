@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 14531737,
                 "language": "Wikitext",
-                "last_commit": "2026-08-17T21:33:24Z",
+                "last_commit": "2026-08-19T20:53:39Z",
                 "owner": "bitcoin",
                 "repo": "bips",
                 "stars": 10922
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-18T22:53:38Z",
+            "last_commit": "2026-08-19T17:58:44Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89945
+            "stars": 89946
           },
           "title": "BitCoin"
         },
@@ -110,10 +110,10 @@
                     "archived": false,
                     "id": 64700934,
                     "language": "Solidity",
-                    "last_commit": "2026-08-19T10:36:28Z",
+                    "last_commit": "2026-08-19T14:24:45Z",
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27219
+                    "stars": 27221
                   }
                 },
                 {
@@ -162,10 +162,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-18T11:59:19Z",
+                    "last_commit": "2026-08-19T23:50:49Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13955
+                    "stars": 13956
                   }
                 },
                 {
@@ -177,10 +177,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-18T11:59:19Z",
+                    "last_commit": "2026-08-19T23:50:49Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13955
+                    "stars": 13956
                   }
                 }
               ]
@@ -343,7 +343,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5658
+            "stars": 5659
           }
         },
         {
@@ -358,7 +358,7 @@
             "last_commit": "2024-06-20T18:03:44Z",
             "owner": "Jeiwan",
             "repo": "blockchain_go",
-            "stars": 4374
+            "stars": 4375
           }
         },
         {
@@ -430,7 +430,7 @@
             "archived": false,
             "id": 9062260,
             "language": "Go",
-            "last_commit": "2026-08-11T14:18:21Z",
+            "last_commit": "2026-08-19T12:40:23Z",
             "owner": "piotrnar",
             "repo": "gocoin",
             "stars": 1000
@@ -546,7 +546,7 @@
                 "last_commit": "2026-08-19T11:24:22Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10781
+                "stars": 10783
               }
             },
             {
@@ -620,7 +620,7 @@
                 "last_commit": "2022-09-21T17:24:36Z",
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035
+                "stars": 2036
               }
             },
             {
@@ -635,7 +635,7 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3622
+                "stars": 3624
               }
             },
             {
@@ -650,7 +650,7 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3622
+                "stars": 3624
               }
             },
             {
@@ -665,7 +665,7 @@
                 "last_commit": "2022-09-21T17:24:36Z",
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035
+                "stars": 2036
               }
             }
           ],
@@ -687,7 +687,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23054
+                "stars": 23053
               }
             },
             {
@@ -702,7 +702,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23054
+                "stars": 23053
               }
             },
             {
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:15.152Z",
+    "last_updated": "2026-08-20T03:52:32.952Z",
     "original_repository": "yjjnls/awesome-blockchain",
     "original_repository_id": 127364556,
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
