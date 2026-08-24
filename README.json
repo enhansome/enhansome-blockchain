@@ -17,7 +17,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25292
+                "stars": 25293
               }
             },
             {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-21T12:40:27Z",
+            "last_commit": "2026-08-24T09:52:22Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89989
+            "stars": 89996
           },
           "title": "BitCoin"
         },
@@ -63,7 +63,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21519
               }
             },
             {
@@ -78,7 +78,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21519
               }
             },
             {
@@ -110,10 +110,10 @@
                     "archived": false,
                     "id": 64700934,
                     "language": "Solidity",
-                    "last_commit": "2026-08-21T14:31:31Z",
+                    "last_commit": "2026-08-24T13:47:43Z",
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27230
+                    "stars": 27232
                   }
                 },
                 {
@@ -162,10 +162,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-24T02:04:15Z",
+                    "last_commit": "2026-08-24T12:23:36Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13955
+                    "stars": 13956
                   }
                 },
                 {
@@ -177,10 +177,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-24T02:04:15Z",
+                    "last_commit": "2026-08-24T12:23:36Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13955
+                    "stars": 13956
                   }
                 }
               ]
@@ -193,7 +193,44 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "Implement a consortium blockchain using ethereum",
+              "description": null,
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ethereum Consortium Network Deployments Made Easy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 101558521,
+                    "language": "Shell",
+                    "last_commit": "2017-09-13T17:21:45Z",
+                    "owner": "CatalystCode",
+                    "repo": "ibera-ethereum-consortium-blockchain-network",
+                    "stars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Wiki",
+                  "description": "/ English version",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188339686,
+                    "language": "Go",
+                    "last_commit": "2024-05-14T02:43:32Z",
+                    "owner": "xuperchain",
+                    "repo": "xuperchain",
+                    "stars": 1705
+                  }
+                },
                 {
                   "node_type": "item",
                   "title": "Getting start",
@@ -373,7 +410,7 @@
             "last_commit": "2023-02-10T16:37:58Z",
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3779
+            "stars": 3778
           }
         },
         {
@@ -536,6 +573,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Privacy - Quorum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see Constellation",
+              "description": "and Tessera) for directed transfer of private data to network participants",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73673710,
+                "language": "Haskell",
+                "last_commit": "2020-07-06T12:57:42Z",
+                "owner": "Consensys",
+                "repo": "constellation",
+                "stars": 383
+              }
+            }
+          ],
+          "description": "Quorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.\nQuorum is a fork of go-ethereum and is updated in line with go-ethereum releases.\nKey enhancements over go-ethereum:",
+          "node_type": "group",
+          "title": "Quorum"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "How to get started",
               "description": null,
               "children": [],
@@ -546,7 +605,7 @@
                 "last_commit": "2026-08-23T20:21:32Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10788
+                "stars": 10791
               }
             },
             {
@@ -635,7 +694,7 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3629
+                "stars": 3628
               }
             },
             {
@@ -650,7 +709,7 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3629
+                "stars": 3628
               }
             },
             {
@@ -687,7 +746,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056
+                "stars": 23055
               }
             },
             {
@@ -702,7 +761,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056
+                "stars": 23055
               }
             },
             {
@@ -714,7 +773,7 @@
                 "archived": false,
                 "id": 32023078,
                 "language": "HTML",
-                "last_commit": "2026-08-24T00:17:08Z",
+                "last_commit": "2026-08-24T13:48:28Z",
                 "owner": "ipfs",
                 "repo": "specs",
                 "stars": 1237
@@ -764,6 +823,43 @@
                 "repo": "papers",
                 "stars": 145
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Roadmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 159499878,
+                "language": null,
+                "last_commit": "2025-05-01T08:39:08Z",
+                "owner": "ipfs",
+                "repo": "roadmap",
+                "stars": 298
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "White paper",
+                  "description": "/ Docs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 521798622,
+                    "language": "MDX",
+                    "last_commit": "2023-12-25T09:49:04Z",
+                    "owner": "polybase",
+                    "repo": "polybase-db-docs",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Polybase"
             }
           ],
           "description": "IPFS (the InterPlanetary File System) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.\nIPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper IPFS - Content Addressed, Versioned, P2P File System.\nIPFS is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It is crazy.",
@@ -802,7 +898,7 @@
             "last_commit": "2023-04-30T14:43:16Z",
             "owner": "decrypto-org",
             "repo": "blockchain-papers",
-            "stars": 2541
+            "stars": 2540
           },
           "title": "Papers"
         },
@@ -820,7 +916,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25292
+                "stars": 25293
               }
             },
             {
@@ -835,7 +931,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21519
               }
             },
             {
@@ -932,13 +1028,49 @@
           "description": null,
           "node_type": "group",
           "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Awesome Name Services",
+                      "description": "Awesome list curating all decentralized domain name services (DNS).",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 563701041,
+                        "language": null,
+                        "last_commit": "2023-01-21T16:59:16Z",
+                        "owner": "scio-labs",
+                        "repo": "awesome-name-services",
+                        "stars": 18
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Public Blockchain Identity"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Identity Applications"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications"
         }
       ],
       "title": "Further Extension"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:00:45.304Z",
+    "last_updated": "2026-08-24T13:57:48.012Z",
     "original_repository": "yjjnls/awesome-blockchain",
     "original_repository_id": 127364556,
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
