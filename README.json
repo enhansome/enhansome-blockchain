@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T21:54:07Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90001
+            "stars": 90002
           },
           "title": "BitCoin"
         },
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:54:28.578Z",
+    "last_updated": "2026-08-25T05:54:34.420Z",
     "original_repository": "yjjnls/awesome-blockchain",
     "original_repository_id": 127364556,
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
