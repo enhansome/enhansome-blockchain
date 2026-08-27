@@ -17,7 +17,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25295
+                "stars": 25296
               }
             },
             {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-27T11:17:53Z",
+            "last_commit": "2026-08-27T13:55:57Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
             "stars": 90023
@@ -63,7 +63,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21517
+                "stars": 21518
               }
             },
             {
@@ -78,7 +78,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21517
+                "stars": 21518
               }
             },
             {
@@ -162,7 +162,7 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-26T11:18:24Z",
+                    "last_commit": "2026-08-27T13:18:35Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 13970
@@ -177,7 +177,7 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-26T11:18:24Z",
+                    "last_commit": "2026-08-27T13:18:35Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 13970
@@ -467,7 +467,7 @@
             "archived": false,
             "id": 9062260,
             "language": "Go",
-            "last_commit": "2026-08-26T19:33:26Z",
+            "last_commit": "2026-08-27T12:47:48Z",
             "owner": "piotrnar",
             "repo": "gocoin",
             "stars": 1000
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 32023078,
                 "language": "HTML",
-                "last_commit": "2026-08-27T09:35:49Z",
+                "last_commit": "2026-08-27T12:09:41Z",
                 "owner": "ipfs",
                 "repo": "specs",
-                "stars": 1238
+                "stars": 1237
               }
             },
             {
@@ -916,7 +916,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25295
+                "stars": 25296
               }
             },
             {
@@ -931,7 +931,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21517
+                "stars": 21518
               }
             },
             {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:13.072Z",
+    "last_updated": "2026-08-27T14:04:06.046Z",
     "original_repository_info": {
       "archived": false,
       "id": 127364556,
