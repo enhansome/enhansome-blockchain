@@ -17,7 +17,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25292
+                "stars": 25295
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T17:14:27Z",
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10927
+                "stars": 10928
               }
             }
           ],
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-25T21:53:17Z",
+            "last_commit": "2026-08-27T11:17:53Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90011
+            "stars": 90023
           },
           "title": "BitCoin"
         },
@@ -63,7 +63,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21517
               }
             },
             {
@@ -78,7 +78,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21517
               }
             },
             {
@@ -110,10 +110,10 @@
                     "archived": false,
                     "id": 64700934,
                     "language": "Solidity",
-                    "last_commit": "2026-08-25T18:17:57Z",
+                    "last_commit": "2026-08-27T09:26:57Z",
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27233
+                    "stars": 27235
                   }
                 },
                 {
@@ -162,10 +162,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-25T11:56:59Z",
+                    "last_commit": "2026-08-26T11:18:24Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13956
+                    "stars": 13970
                   }
                 },
                 {
@@ -177,10 +177,10 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-25T11:56:59Z",
+                    "last_commit": "2026-08-26T11:18:24Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13956
+                    "stars": 13970
                   }
                 }
               ]
@@ -380,7 +380,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5661
+            "stars": 5662
           }
         },
         {
@@ -467,7 +467,7 @@
             "archived": false,
             "id": 9062260,
             "language": "Go",
-            "last_commit": "2026-08-25T20:01:52Z",
+            "last_commit": "2026-08-26T19:33:26Z",
             "owner": "piotrnar",
             "repo": "gocoin",
             "stars": 1000
@@ -602,7 +602,7 @@
                 "archived": false,
                 "id": 19316619,
                 "language": "C++",
-                "last_commit": "2026-08-25T19:19:19Z",
+                "last_commit": "2026-08-26T18:10:14Z",
                 "owner": "monero-project",
                 "repo": "monero",
                 "stars": 10803
@@ -746,7 +746,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055
+                "stars": 23056
               }
             },
             {
@@ -761,7 +761,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055
+                "stars": 23056
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 32023078,
                 "language": "HTML",
-                "last_commit": "2026-08-25T15:22:08Z",
+                "last_commit": "2026-08-27T09:35:49Z",
                 "owner": "ipfs",
                 "repo": "specs",
-                "stars": 1237
+                "stars": 1238
               }
             },
             {
@@ -898,7 +898,7 @@
             "last_commit": "2023-04-30T14:43:16Z",
             "owner": "decrypto-org",
             "repo": "blockchain-papers",
-            "stars": 2540
+            "stars": 2541
           },
           "title": "Papers"
         },
@@ -916,7 +916,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25292
+                "stars": 25295
               }
             },
             {
@@ -931,7 +931,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21517
               }
             },
             {
@@ -1070,9 +1070,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:18.528Z",
-    "original_repository": "yjjnls/awesome-blockchain",
-    "original_repository_id": 127364556,
+    "last_updated": "2026-08-27T11:27:13.072Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 127364556,
+      "language": "Go",
+      "last_commit": "2024-03-22T07:23:48Z",
+      "owner": "yjjnls",
+      "repo": "awesome-blockchain",
+      "stars": 3627
+    },
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
     "enhanced_repository": "enhansome/enhansome-blockchain",
     "enhanced_repository_description": null,
