@@ -17,8 +17,9 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25296
-              }
+                "stars": 25294
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-20T17:14:27Z",
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10928
-              }
+                "stars": 10931
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": "Bitcoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.",
@@ -42,12 +44,13 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-27T13:55:57Z",
+            "last_commit": "2026-08-28T11:47:21Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90023
+            "stars": 90025
           },
-          "title": "BitCoin"
+          "title": "BitCoin",
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "children": [
@@ -64,7 +67,8 @@
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
                 "stars": 21518
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -79,7 +83,8 @@
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
                 "stars": 21518
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -94,7 +99,8 @@
                 "owner": "yuange1024",
                 "repo": "ethereum_yellowpaper",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "group",
@@ -110,11 +116,12 @@
                     "archived": false,
                     "id": 64700934,
                     "language": "Solidity",
-                    "last_commit": "2026-08-27T09:26:57Z",
+                    "last_commit": "2026-08-28T09:07:54Z",
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27235
-                  }
+                    "stars": 27234
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "item",
@@ -129,7 +136,8 @@
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-sdk",
                     "stars": 451
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "item",
@@ -144,7 +152,8 @@
                     "owner": "Consensys",
                     "repo": "smart-contract-best-practices",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 }
               ]
             },
@@ -162,11 +171,12 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-27T13:18:35Z",
+                    "last_commit": "2026-08-28T13:00:36Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13970
-                  }
+                    "stars": 13972
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "item",
@@ -177,11 +187,12 @@
                     "archived": false,
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-27T13:18:35Z",
+                    "last_commit": "2026-08-28T13:00:36Z",
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13970
-                  }
+                    "stars": 13972
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 }
               ]
             }
@@ -210,7 +221,8 @@
                     "owner": "CatalystCode",
                     "repo": "ibera-ethereum-consortium-blockchain-network",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 }
               ]
             },
@@ -229,7 +241,8 @@
                     "owner": "xuperchain",
                     "repo": "xuperchain",
                     "stars": 1705
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +257,8 @@
                     "owner": "xuperchain",
                     "repo": "xuperchain",
                     "stars": 1705
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +273,8 @@
                     "owner": "xuperchain",
                     "repo": "xuperchain",
                     "stars": 1705
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 },
                 {
                   "node_type": "group",
@@ -279,7 +294,8 @@
                         "owner": "xuperchain",
                         "repo": "xuper-java-sdk",
                         "stars": 30
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:15:10.473Z"
                     },
                     {
                       "node_type": "item",
@@ -294,7 +310,8 @@
                         "owner": "xuperchain",
                         "repo": "xuper-python-sdk",
                         "stars": 17
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:15:10.473Z"
                     },
                     {
                       "node_type": "item",
@@ -309,7 +326,8 @@
                         "owner": "xuperchain",
                         "repo": "xuper-python-sdk",
                         "stars": 17
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:15:10.473Z"
                     },
                     {
                       "node_type": "item",
@@ -324,7 +342,8 @@
                         "owner": "xuperchain",
                         "repo": "xuper-sdk-js",
                         "stars": 14
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:15:10.473Z"
                     }
                   ]
                 }
@@ -340,7 +359,8 @@
                 "repo": "xuperchain",
                 "stars": 1705
               },
-              "title": "XuperChain"
+              "title": "XuperChain",
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "children": [],
@@ -355,7 +375,8 @@
                 "repo": "Wiki",
                 "stars": 227
               },
-              "title": "FISCO-BCOS"
+              "title": "FISCO-BCOS",
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": null,
@@ -380,8 +401,9 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5662
-          }
+            "stars": 5663
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -396,7 +418,8 @@
             "owner": "Jeiwan",
             "repo": "blockchain_go",
             "stars": 4375
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -411,7 +434,8 @@
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
             "stars": 3778
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -426,7 +450,8 @@
             "owner": "Savjee",
             "repo": "SavjeeCoin",
             "stars": 1770
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -441,7 +466,8 @@
             "owner": "conradoqg",
             "repo": "naivecoin",
             "stars": 1288
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -455,8 +481,9 @@
             "last_commit": "2022-03-17T15:41:17Z",
             "owner": "nambrot",
             "repo": "blockchain-in-js",
-            "stars": 1133
-          }
+            "stars": 1131
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -471,7 +498,8 @@
             "owner": "piotrnar",
             "repo": "gocoin",
             "stars": 1000
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -486,7 +514,8 @@
             "owner": "0xs34n",
             "repo": "blockchain",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -501,7 +530,8 @@
             "owner": "izqui",
             "repo": "blockchain",
             "stars": 848
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -516,7 +546,8 @@
             "owner": "openblockchains",
             "repo": "programming-blockchains",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -531,7 +562,8 @@
             "owner": "Haseeb-Qureshi",
             "repo": "lets-build-a-blockchain",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -546,7 +578,8 @@
             "owner": "kofj",
             "repo": "naivechain",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "node_type": "item",
@@ -561,7 +594,8 @@
             "owner": "crisadamo",
             "repo": "gochain",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T15:15:10.473Z"
         }
       ],
       "title": "Implementation of Blockchain"
@@ -584,7 +618,8 @@
                 "owner": "Consensys",
                 "repo": "constellation",
                 "stars": 383
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": "Quorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.\nQuorum is a fork of go-ethereum and is updated in line with go-ethereum releases.\nKey enhancements over go-ethereum:",
@@ -602,11 +637,12 @@
                 "archived": false,
                 "id": 19316619,
                 "language": "C++",
-                "last_commit": "2026-08-26T18:10:14Z",
+                "last_commit": "2026-08-28T07:58:27Z",
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10803
-              }
+                "stars": 10804
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -621,7 +657,8 @@
                 "owner": "liuchengxu",
                 "repo": "blockchain-tutorial",
                 "stars": 2455
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": "Monero is a private, secure, untraceable, decentralised digital currency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.\nPrivacy: Monero uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.\nSecurity: Using the power of a distributed peer-to-peer consensus network, every transaction on the network is cryptographically secured. Individual wallets have a 25 word mnemonic seed that is only displayed once, and can be written down to backup the wallet. Wallet files are encrypted with a passphrase to ensure they are useless if stolen.\nUntraceability: By taking advantage of ring signatures, a special property of a certain type of cryptography, Monero is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.",
@@ -643,7 +680,8 @@
                 "owner": "iotaledger-archive",
                 "repo": "iri",
                 "stars": 1143
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": "IOTA is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It’s based on a new distributed ledger architecture, the Tangle, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA.\nIOTA is the missing puzzle piece for the Machine Economy to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.",
@@ -664,8 +702,9 @@
                 "last_commit": "2022-07-27T00:17:50Z",
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11172
-              }
+                "stars": 11171
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -680,7 +719,8 @@
                 "owner": "EOSIO",
                 "repo": "Documentation",
                 "stars": 2035
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -694,8 +734,9 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3627
-              }
+                "stars": 3628
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -709,8 +750,9 @@
                 "last_commit": "2024-03-22T07:23:48Z",
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3627
-              }
+                "stars": 3628
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -725,7 +767,8 @@
                 "owner": "EOSIO",
                 "repo": "Documentation",
                 "stars": 2035
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": "EOSIO is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications (the “EOSIO Software”). This is achieved through an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters. The resulting technology is a blockchain architecture that has the potential to scale to millions of transactions per second, eliminates user fees and allows for quick and easy deployment of decentralized applications. For more information, please read the EOS.IO Technical White Paper.",
@@ -746,8 +789,9 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056
-              }
+                "stars": 23057
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -761,8 +805,9 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056
-              }
+                "stars": 23057
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -773,11 +818,12 @@
                 "archived": false,
                 "id": 32023078,
                 "language": "HTML",
-                "last_commit": "2026-08-27T12:09:41Z",
+                "last_commit": "2026-08-27T20:11:06Z",
                 "owner": "ipfs",
                 "repo": "specs",
                 "stars": 1237
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -792,7 +838,8 @@
                 "owner": "ipfs",
                 "repo": "notes",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -807,7 +854,8 @@
                 "owner": "ipfs-inactive",
                 "repo": "reading-list",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -822,7 +870,8 @@
                 "owner": "ipfs",
                 "repo": "papers",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -837,7 +886,8 @@
                 "owner": "ipfs",
                 "repo": "roadmap",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "children": [
@@ -854,7 +904,8 @@
                     "owner": "polybase",
                     "repo": "polybase-db-docs",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:15:10.473Z"
                 }
               ],
               "description": null,
@@ -879,7 +930,8 @@
             "repo": "ethairballoons",
             "stars": 39
           },
-          "title": "EthAir Balloons"
+          "title": "EthAir Balloons",
+          "first_seen": "2026-08-28T15:15:10.473Z"
         }
       ],
       "title": "Projects and Applications"
@@ -898,9 +950,10 @@
             "last_commit": "2023-04-30T14:43:16Z",
             "owner": "decrypto-org",
             "repo": "blockchain-papers",
-            "stars": 2541
+            "stars": 2540
           },
-          "title": "Papers"
+          "title": "Papers",
+          "first_seen": "2026-08-28T15:15:10.473Z"
         },
         {
           "children": [
@@ -916,8 +969,9 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25296
-              }
+                "stars": 25294
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -932,7 +986,8 @@
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
                 "stars": 21518
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -947,7 +1002,8 @@
                 "owner": "openblockchains",
                 "repo": "programming-blockchains",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1018,8 @@
                 "owner": "yjjnls",
                 "repo": "books",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1034,8 @@
                 "owner": "bitsblocks",
                 "repo": "get-rich-quick-bible",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1050,8 @@
                 "owner": "bitsblocks",
                 "repo": "bitcoin-maximalist",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1066,8 @@
                 "owner": "bitsblocks",
                 "repo": "islandcoin-whitepaper",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1082,8 @@
                 "owner": "bitsblocks",
                 "repo": "crypto-facts",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:15:10.473Z"
             }
           ],
           "description": null,
@@ -1048,7 +1109,8 @@
                         "owner": "scio-labs",
                         "repo": "awesome-name-services",
                         "stars": 18
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:15:10.473Z"
                     }
                   ],
                   "description": null,
@@ -1070,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:06.046Z",
+    "last_updated": "2026-08-28T15:15:10.473Z",
     "original_repository_info": {
       "archived": false,
       "id": 127364556,
@@ -1078,7 +1140,7 @@
       "last_commit": "2024-03-22T07:23:48Z",
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3627
+      "stars": 3628
     },
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
     "enhanced_repository": "enhansome/enhansome-blockchain",
