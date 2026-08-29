@@ -195,13 +195,13 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ## Development Tutorial
 
-### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,031 | 🐛 715 | 🌐 C++ | 📅 2026-08-28
+### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,039 | 🐛 710 | 🌐 C++ | 📅 2026-08-29
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
 **Bitcoin** is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses **peer-to-peer** technology to **operate with no central authority**: managing transactions and issuing money are carried out collectively by the network.
 
-* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,297 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
+* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,298 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
 * [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips/) ⭐ 10,932 | 🐛 55 | 🌐 Wikitext | 📅 2026-08-20
 * [BitCoin white paper: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) / [Chinese version](BitCoin/white%20paper.md) / [Annotated BitCoin white paper](https://fermatslibrary.com/s/bitcoin)
 
@@ -223,7 +223,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 These apps run on a custom built **blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.**
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,518 | 🐛 2 | 📅 2026-05-13 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,077 | 🐛 25 | 🌐 Vue | 📅 2024-05-07
-* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,518 | 🐛 2 | 📅 2026-05-13 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,972 | 🐛 518 | 🌐 Python | 📅 2026-08-28
+* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,518 | 🐛 2 | 📅 2026-05-13 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,973 | 🐛 519 | 🌐 Python | 📅 2026-08-28
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) / [Chinese version](https://github.com/yuange1024/ethereum_yellowpaper) ⭐ 431 | 🐛 0 | 🌐 TeX | 📅 2026-01-15
 * [Ethereum white paper](https://github.com/ethereum/wiki/wiki/White-Paper) / [Chinese version](./Ethereum/white%20paper.md) / [Annotated Ethereum white paper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
 * [Ethereum wiki](https://github.com/ethereum/wiki/wiki)
@@ -246,15 +246,15 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 * [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 * Security
-  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,234 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
+  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,233 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
   * [openzepplin sdk](https://github.com/OpenZeppelin/openzeppelin-sdk) ⚠️ Archived
   * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) / [Chinese version](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
   * [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
   * [The Hitchhiker's Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
   * [**OpenZeppelin**](https://docs.openzeppelin.com/openzeppelin/)
 * Token
-  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 13,972 | 🐛 518 | 🌐 Python | 📅 2026-08-28 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,234 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28
-  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 13,972 | 🐛 518 | 🌐 Python | 📅 2026-08-28 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,234 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28
+  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 13,973 | 🐛 519 | 🌐 Python | 📅 2026-08-28 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,233 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28
+  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 13,973 | 🐛 519 | 🌐 Python | 📅 2026-08-28 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,233 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28
 
 - Utils
   * [Ethereum Blockchain Explorer](https://etherscan.io/)
@@ -442,7 +442,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 **Quorum** is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
 
-**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,314 | 🐛 423 | 🌐 Go | 📅 2026-08-28 and is updated in line with go-ethereum releases.
+**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,315 | 🐛 425 | 🌐 Go | 📅 2026-08-28 and is updated in line with go-ethereum releases.
 
 Key enhancements over go-ethereum:
 
@@ -573,7 +573,7 @@ Key enhancements over go-ethereum:
 
 ### Books
 
-* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,297 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,298 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
   by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
   *What Is Bitcoin? ++
   How Bitcoin Works ++
