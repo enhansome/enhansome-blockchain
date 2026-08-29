@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+                "homepage": "https://aantonop.com/books",
                 "id": 12044132,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
+                "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25294
+                "stars": 25297,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-api",
+                  "blockchain",
+                  "oreilly",
+                  "oreilly-books"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Improvement Proposals",
+                "homepage": null,
                 "id": 14531737,
                 "language": "Wikitext",
+                "license": null,
                 "last_commit": "2026-08-20T17:14:27Z",
+                "open_issues": 55,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10931
+                "stars": 10932,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -42,12 +58,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Core integration/staging tree",
+            "homepage": "https://bitcoincore.org/en/download",
             "id": 1181927,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:47:21Z",
+            "open_issues": 715,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90025
+            "stars": 90031,
+            "topics": [
+              "bitcoin",
+              "c-plus-plus",
+              "cryptocurrency",
+              "cryptography",
+              "p2p"
+            ]
           },
           "title": "BitCoin",
           "first_seen": "2026-08-28T15:15:10.473Z"
@@ -61,12 +88,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+                "homepage": "https://masteringethereum.xyz/",
                 "id": 65392364,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-13T14:04:25Z",
+                "open_issues": 2,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21518,
+                "topics": [
+                  "blockchain",
+                  "book",
+                  "dapp",
+                  "devp2p",
+                  "embark",
+                  "ethereum",
+                  "oreilly",
+                  "smart-contracts",
+                  "solidity",
+                  "token",
+                  "truffle-framework",
+                  "web3js"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -77,12 +122,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+                "homepage": "https://masteringethereum.xyz/",
                 "id": 65392364,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-13T14:04:25Z",
+                "open_issues": 2,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21518,
+                "topics": [
+                  "blockchain",
+                  "book",
+                  "dapp",
+                  "devp2p",
+                  "embark",
+                  "ethereum",
+                  "oreilly",
+                  "smart-contracts",
+                  "solidity",
+                  "token",
+                  "truffle-framework",
+                  "web3js"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -93,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "以太坊黄皮书中文版",
+                "homepage": null,
                 "id": 98560881,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-01-15T16:35:52Z",
+                "open_issues": 0,
                 "owner": "yuange1024",
                 "repo": "ethereum_yellowpaper",
-                "stars": 431
+                "stars": 431,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -114,12 +182,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+                    "homepage": "https://openzeppelin.com/contracts",
                     "id": 64700934,
                     "language": "Solidity",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:07:54Z",
+                    "open_issues": 374,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27234
+                    "stars": 27234,
+                    "topics": [
+                      "ethereum",
+                      "evm",
+                      "security",
+                      "smart-contracts",
+                      "solidity"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -130,12 +209,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "OpenZeppelin SDK repository for CLI and upgrades.js. No longer actively developed.",
+                    "homepage": null,
                     "id": 143195936,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-01-23T22:30:11Z",
+                    "open_issues": 267,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-sdk",
-                    "stars": 451
+                    "stars": 451,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -146,12 +230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A guide to smart contract security best practices ",
+                    "homepage": null,
                     "id": 956692023,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2025-03-28T17:57:27Z",
+                    "open_issues": 0,
                     "owner": "Consensys",
                     "repo": "smart-contract-best-practices",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 }
@@ -169,12 +258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Ethereum Improvement Proposal repository",
+                    "homepage": "https://eips.ethereum.org/",
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-28T13:00:36Z",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-28T23:51:46Z",
+                    "open_issues": 518,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13972
+                    "stars": 13972,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -185,12 +279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Ethereum Improvement Proposal repository",
+                    "homepage": "https://eips.ethereum.org/",
                     "id": 44971752,
                     "language": "Python",
-                    "last_commit": "2026-08-28T13:00:36Z",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-28T23:51:46Z",
+                    "open_issues": 518,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13972
+                    "stars": 13972,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 }
@@ -215,12 +314,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 101558521,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2017-09-13T17:21:45Z",
+                    "open_issues": 1,
                     "owner": "CatalystCode",
                     "repo": "ibera-ethereum-consortium-blockchain-network",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 }
@@ -235,12 +339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A highly flexible blockchain architecture with great transaction performance.",
+                    "homepage": "https://xuper.baidu.com/",
                     "id": 188339686,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-14T02:43:32Z",
+                    "open_issues": 86,
                     "owner": "xuperchain",
                     "repo": "xuperchain",
-                    "stars": 1705
+                    "stars": 1705,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -251,12 +360,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A highly flexible blockchain architecture with great transaction performance.",
+                    "homepage": "https://xuper.baidu.com/",
                     "id": 188339686,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-14T02:43:32Z",
+                    "open_issues": 86,
                     "owner": "xuperchain",
                     "repo": "xuperchain",
-                    "stars": 1705
+                    "stars": 1705,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -267,12 +381,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A highly flexible blockchain architecture with great transaction performance.",
+                    "homepage": "https://xuper.baidu.com/",
                     "id": 188339686,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-14T02:43:32Z",
+                    "open_issues": 86,
                     "owner": "xuperchain",
                     "repo": "xuperchain",
-                    "stars": 1705
+                    "stars": 1705,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 },
@@ -288,12 +407,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The java sdk of xuperunion https://github.com/xuperchain/xuperunion",
+                        "homepage": null,
                         "id": 224450716,
                         "language": "Java",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-11-13T05:37:30Z",
+                        "open_issues": 36,
                         "owner": "xuperchain",
                         "repo": "xuper-java-sdk",
-                        "stars": 30
+                        "stars": 30,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:15:10.473Z"
                     },
@@ -304,12 +428,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pure python sdk for XuperChain",
+                        "homepage": null,
                         "id": 219691999,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2019-12-17T15:47:22Z",
+                        "open_issues": 1,
                         "owner": "xuperchain",
                         "repo": "xuper-python-sdk",
-                        "stars": 17
+                        "stars": 17,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:15:10.473Z"
                     },
@@ -320,12 +449,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pure python sdk for XuperChain",
+                        "homepage": null,
                         "id": 219691999,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2019-12-17T15:47:22Z",
+                        "open_issues": 1,
                         "owner": "xuperchain",
                         "repo": "xuper-python-sdk",
-                        "stars": 17
+                        "stars": 17,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:15:10.473Z"
                     },
@@ -336,12 +470,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The JS(TS) SDK for XuperChain",
+                        "homepage": "https://xuperchain.github.io/xuper-sdk-js/",
                         "id": 229175769,
                         "language": "TypeScript",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-03-13T11:46:40Z",
+                        "open_issues": 25,
                         "owner": "xuperchain",
                         "repo": "xuper-sdk-js",
-                        "stars": 14
+                        "stars": 14,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:15:10.473Z"
                     }
@@ -352,12 +491,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A highly flexible blockchain architecture with great transaction performance.",
+                "homepage": "https://xuper.baidu.com/",
                 "id": 188339686,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-14T02:43:32Z",
+                "open_issues": 86,
                 "owner": "xuperchain",
                 "repo": "xuperchain",
-                "stars": 1705
+                "stars": 1705,
+                "topics": []
               },
               "title": "XuperChain",
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -368,12 +512,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "knowledge about FISCO BCOS",
+                "homepage": null,
                 "id": 114068763,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-04T07:46:09Z",
+                "open_issues": 3,
                 "owner": "FISCO-BCOS",
                 "repo": "Wiki",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "title": "FISCO-BCOS",
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -396,12 +545,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based demonstration of blockchain concepts.",
+            "homepage": null,
             "id": 72867492,
             "language": "Pug",
+            "license": "MIT",
             "last_commit": "2026-07-29T02:17:13Z",
+            "open_issues": 11,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5663
+            "stars": 5663,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "blockchain-technology"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -412,12 +570,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simplified blockchain implementation in Golang",
+            "homepage": null,
             "id": 100349127,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-06-20T18:03:44Z",
+            "open_issues": 53,
             "owner": "Jeiwan",
             "repo": "blockchain_go",
-            "stars": 4375
+            "stars": 4375,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cryptocurrency",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -428,12 +596,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
+            "homepage": null,
             "id": 103458675,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2023-02-10T16:37:58Z",
+            "open_issues": 6,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3778
+            "stars": 3778,
+            "topics": [
+              "blockchain",
+              "content-addressable-storage",
+              "cryptohash",
+              "distributed-database",
+              "ethereum",
+              "git",
+              "merkletree",
+              "proof-of-waste",
+              "proof-of-work",
+              "sha256",
+              "transactions",
+              "tulipmania",
+              "tx",
+              "universum"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -444,12 +632,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple blockchain in Javascript. For educational purposes only.",
+            "homepage": null,
             "id": 105263520,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-21T21:54:44Z",
+            "open_issues": 2,
             "owner": "Savjee",
             "repo": "SavjeeCoin",
-            "stars": 1770
+            "stars": 1770,
+            "topics": [
+              "blockchain",
+              "cryptography",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -460,12 +657,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cryptocurrency implementation in less than 1500 lines of code",
+            "homepage": null,
             "id": 89717349,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-28T11:58:54Z",
+            "open_issues": 20,
             "owner": "conradoqg",
             "repo": "naivecoin",
-            "stars": 1288
+            "stars": 1288,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "eddsa",
+              "nodejs",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -476,12 +684,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own blockchain!",
+            "homepage": "https://blockchain.nambrot.com",
             "id": 110475327,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-03-17T15:41:17Z",
+            "open_issues": 2,
             "owner": "nambrot",
             "repo": "blockchain-in-js",
-            "stars": 1131
+            "stars": 1131,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -492,12 +709,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full bitcoin solution written in Go (golang)",
+            "homepage": null,
             "id": 9062260,
             "language": "Go",
-            "last_commit": "2026-08-27T12:47:48Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:35:40Z",
+            "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
-            "stars": 1000
+            "stars": 1000,
+            "topics": [
+              "bitcoin",
+              "gocoin",
+              "golang",
+              "node",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -508,12 +736,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖Code for Blockchain Demo",
+            "homepage": "https://blockchaindemo.io",
             "id": 112158434,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-07T23:38:05Z",
+            "open_issues": 35,
             "owner": "0xs34n",
             "repo": "blockchain",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "blockchain",
+              "cryptography",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -524,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic blockchain implementation written in Go",
+            "homepage": null,
             "id": 22927369,
             "language": "Go",
+            "license": null,
             "last_commit": "2014-08-28T18:38:05Z",
+            "open_issues": 7,
             "owner": "izqui",
             "repo": "blockchain",
-            "stars": 848
+            "stars": 848,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -540,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes...",
+            "homepage": null,
             "id": 125402099,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2021-01-02T10:52:07Z",
+            "open_issues": 0,
             "owner": "openblockchains",
             "repo": "programming-blockchains",
-            "stars": 680
+            "stars": 680,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -556,12 +803,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mini cryptocurrency in Ruby",
+            "homepage": null,
             "id": 107200331,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-10-23T14:02:13Z",
+            "open_issues": 1,
             "owner": "Haseeb-Qureshi",
             "repo": "lets-build-a-blockchain",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cryptocurrency",
+              "ruby",
+              "sinatra"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -572,12 +830,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A naive and simple implementation of blockchains.",
+            "homepage": null,
             "id": 88176602,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-04-20T12:32:32Z",
+            "open_issues": 0,
             "owner": "kofj",
             "repo": "naivechain",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "blockchain",
+              "golang",
+              "naivechain"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         },
@@ -588,12 +855,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic implementation of Blockchain",
+            "homepage": null,
             "id": 105152242,
             "language": "Go",
+            "license": null,
             "last_commit": "2018-02-23T16:23:35Z",
+            "open_issues": 2,
             "owner": "crisadamo",
             "repo": "gochain",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "blockchain"
+            ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
         }
@@ -612,12 +886,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Peer-to-peer encrypted message exchange",
+                "homepage": null,
                 "id": 73673710,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-06T12:57:42Z",
+                "open_issues": 3,
                 "owner": "Consensys",
                 "repo": "constellation",
-                "stars": 383
+                "stars": 383,
+                "topics": [
+                  "crypto",
+                  "encryption",
+                  "haskell",
+                  "p2p",
+                  "peer-to-peer",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -635,12 +921,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monero: the secure, private, untraceable cryptocurrency",
+                "homepage": "https://getmonero.org",
                 "id": 19316619,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:58:27Z",
+                "open_issues": 687,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10804
+                "stars": 10805,
+                "topics": [
+                  "blockchain",
+                  "c-plus-plus",
+                  "cmake",
+                  "cryptocurrency",
+                  "cryptography",
+                  "cryptonote",
+                  "monero",
+                  "p2p",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -651,12 +953,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese",
+                "homepage": "https://liuchengxu.gitbook.io/blockchain",
                 "id": 106536203,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-03-24T12:27:55Z",
+                "open_issues": 6,
                 "owner": "liuchengxu",
                 "repo": "blockchain-tutorial",
-                "stars": 2455
+                "stars": 2455,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "blockchain-tutorial",
+                  "cryptocurrency",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -674,12 +987,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "IOTA Reference Implementation",
+                "homepage": null,
                 "id": 71836159,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-08-18T11:14:04Z",
+                "open_issues": 423,
                 "owner": "iotaledger-archive",
                 "repo": "iri",
-                "stars": 1143
+                "stars": 1143,
+                "topics": [
+                  "iota",
+                  "iota-core",
+                  "iota-java",
+                  "iota-reference"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -697,12 +1020,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source smart contract platform ",
+                "homepage": "https://developers.eos.io/manuals/eos",
                 "id": 87335980,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-27T00:17:50Z",
+                "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11171
+                "stars": 11172,
+                "topics": [
+                  "eosio"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -713,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOSIO Documents",
+                "homepage": "https://eos.io",
                 "id": 93491617,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-09-21T17:24:36Z",
+                "open_issues": 85,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035
+                "stars": 2035,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -729,12 +1064,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️Curated list of resources for the development and applications of blockchain.",
+                "homepage": null,
                 "id": 127364556,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-22T07:23:48Z",
+                "open_issues": 51,
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3628
+                "stars": 3628,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bitcoin",
+                  "blockchain",
+                  "bulletproofs",
+                  "digital-currency",
+                  "dpos",
+                  "eos",
+                  "eosio",
+                  "ethereum",
+                  "fabric",
+                  "iota",
+                  "ipfs",
+                  "mastering-bitcoin",
+                  "mastering-ethereum",
+                  "monero",
+                  "pbft",
+                  "pos",
+                  "pow",
+                  "white-paper"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -745,12 +1106,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️Curated list of resources for the development and applications of blockchain.",
+                "homepage": null,
                 "id": 127364556,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-22T07:23:48Z",
+                "open_issues": 51,
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3628
+                "stars": 3628,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bitcoin",
+                  "blockchain",
+                  "bulletproofs",
+                  "digital-currency",
+                  "dpos",
+                  "eos",
+                  "eosio",
+                  "ethereum",
+                  "fabric",
+                  "iota",
+                  "ipfs",
+                  "mastering-bitcoin",
+                  "mastering-ethereum",
+                  "monero",
+                  "pbft",
+                  "pos",
+                  "pow",
+                  "white-paper"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -761,12 +1148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EOSIO Documents",
+                "homepage": "https://eos.io",
                 "id": 93491617,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-09-21T17:24:36Z",
+                "open_issues": 85,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035
+                "stars": 2035,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -784,12 +1176,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peer-to-peer hypermedia protocol",
+                "homepage": "https://ipfs.tech",
                 "id": 16722900,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-01T07:37:22Z",
+                "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23057
+                "stars": 23058,
+                "topics": [
+                  "ipfs",
+                  "ipfs-protocol",
+                  "ipfs-web",
+                  "ipld",
+                  "js-ipfs",
+                  "multiformats",
+                  "p2p",
+                  "paper",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -800,12 +1207,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peer-to-peer hypermedia protocol",
+                "homepage": "https://ipfs.tech",
                 "id": 16722900,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-01T07:37:22Z",
+                "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23057
+                "stars": 23058,
+                "topics": [
+                  "ipfs",
+                  "ipfs-protocol",
+                  "ipfs-web",
+                  "ipld",
+                  "js-ipfs",
+                  "multiformats",
+                  "p2p",
+                  "paper",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -816,12 +1238,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Technical specifications for the IPFS protocol stack",
+                "homepage": "https://specs.ipfs.tech",
                 "id": 32023078,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-27T20:11:06Z",
+                "open_issues": 89,
                 "owner": "ipfs",
                 "repo": "specs",
-                "stars": 1237
+                "stars": 1237,
+                "topics": [
+                  "ipfs",
+                  "p2p",
+                  "protocol",
+                  "specifications",
+                  "specs",
+                  "standards"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -832,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "IPFS Collaborative Notebook for Research",
+                "homepage": null,
                 "id": 34020765,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-07-21T09:55:31Z",
+                "open_issues": 346,
                 "owner": "ipfs",
                 "repo": "notes",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -848,12 +1287,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ARCHIVED] Moved to https://docs.ipfs.io — papers to read to understand IPFS",
+                "homepage": "https://docs.ipfs.io",
                 "id": 64340529,
                 "language": "TeX",
+                "license": "CC0-1.0",
                 "last_commit": "2020-04-28T21:58:33Z",
+                "open_issues": 4,
                 "owner": "ipfs-inactive",
                 "repo": "reading-list",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -864,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "IPFS Papers (not specs)",
+                "homepage": null,
                 "id": 33229823,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-02-13T14:38:07Z",
+                "open_issues": 19,
                 "owner": "ipfs",
                 "repo": "papers",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -880,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ ARCHIVED ] Old IPFS Project && Working Group Roadmaps Repo",
+                "homepage": null,
                 "id": 159499878,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-01T08:39:08Z",
+                "open_issues": 0,
                 "owner": "ipfs",
                 "repo": "roadmap",
-                "stars": 298
+                "stars": 298,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -898,12 +1352,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Polybase API documentation and guides",
+                    "homepage": "https://polybase.xyz/db/docs",
                     "id": 521798622,
                     "language": "MDX",
+                    "license": "MIT",
                     "last_commit": "2023-12-25T09:49:04Z",
+                    "open_issues": 1,
                     "owner": "polybase",
                     "repo": "polybase-db-docs",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
                 }
@@ -923,12 +1382,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A strictly typed ORM library for Ethereum blockchain. ",
+            "homepage": null,
             "id": 236570391,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T21:58:33Z",
+            "open_issues": 4,
             "owner": "petrosDemetrakopoulos",
             "repo": "ethairballoons",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "blockchain",
+              "dao",
+              "dapp",
+              "database",
+              "ethereum",
+              "ethereum-blockchain",
+              "javascript",
+              "javascript-library",
+              "library",
+              "orm",
+              "smart-contracts"
+            ]
           },
           "title": "EthAir Balloons",
           "first_seen": "2026-08-28T15:15:10.473Z"
@@ -945,12 +1421,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of academic blockchain-related papers",
+            "homepage": null,
             "id": 88365644,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-30T14:43:16Z",
+            "open_issues": 18,
             "owner": "decrypto-org",
             "repo": "blockchain-papers",
-            "stars": 2540
+            "stars": 2540,
+            "topics": []
           },
           "title": "Papers",
           "first_seen": "2026-08-28T15:15:10.473Z"
@@ -964,12 +1445,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+                "homepage": "https://aantonop.com/books",
                 "id": 12044132,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
+                "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25294
+                "stars": 25297,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-api",
+                  "blockchain",
+                  "oreilly",
+                  "oreilly-books"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -980,12 +1472,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+                "homepage": "https://masteringethereum.xyz/",
                 "id": 65392364,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-13T14:04:25Z",
+                "open_issues": 2,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21518,
+                "topics": [
+                  "blockchain",
+                  "book",
+                  "dapp",
+                  "devp2p",
+                  "embark",
+                  "ethereum",
+                  "oreilly",
+                  "smart-contracts",
+                  "solidity",
+                  "token",
+                  "truffle-framework",
+                  "web3js"
+                ]
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -996,12 +1506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes...",
+                "homepage": null,
                 "id": 125402099,
                 "language": "Ruby",
+                "license": "CC0-1.0",
                 "last_commit": "2021-01-02T10:52:07Z",
+                "open_issues": 0,
                 "owner": "openblockchains",
                 "repo": "programming-blockchains",
-                "stars": 680
+                "stars": 680,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -1012,12 +1527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "git clone git@github.com:yjjnls/books.git --depth=1",
+                "homepage": null,
                 "id": 127584181,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2018-04-02T08:58:42Z",
+                "open_issues": 0,
                 "owner": "yjjnls",
                 "repo": "books",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -1028,12 +1548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Rich Quick \"Business Blockchain\" Bible - The Secrets of Free Easy Money - From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) - Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: - To the Beach (Book Edition) by Gerald Bauer et al",
+                "homepage": null,
                 "id": 129755154,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-05-10T17:44:01Z",
+                "open_issues": 0,
                 "owner": "bitsblocks",
                 "repo": "get-rich-quick-bible",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -1044,12 +1569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics (Book Edition) by Trolly McTrollface, et al",
+                "homepage": null,
                 "id": 133151891,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-13T21:56:56Z",
+                "open_issues": 0,
                 "owner": "bitsblocks",
                 "repo": "bitcoin-maximalist",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -1060,12 +1590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island by Tal Kol (Book Edition)",
+                "homepage": null,
                 "id": 133687978,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-05-17T16:05:02Z",
+                "open_issues": 0,
                 "owner": "bitsblocks",
                 "repo": "islandcoin-whitepaper",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             },
@@ -1076,12 +1611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crypto Facts  - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False? (Book Edition) by Nouriel Roubini, David Gerard, et al",
+                "homepage": null,
                 "id": 133417211,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-09T15:53:14Z",
+                "open_issues": 0,
                 "owner": "bitsblocks",
                 "repo": "crypto-facts",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
             }
@@ -1103,12 +1643,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of decentralized name services.",
+                        "homepage": null,
                         "id": 563701041,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2023-01-21T16:59:16Z",
+                        "open_issues": 0,
                         "owner": "scio-labs",
                         "repo": "awesome-name-services",
-                        "stars": 18
+                        "stars": 18,
+                        "topics": [
+                          "alephzero",
+                          "aptos",
+                          "avalanche",
+                          "awesome",
+                          "awesome-list",
+                          "awesome-lists",
+                          "blockchain",
+                          "decentralization",
+                          "decentralized",
+                          "ethereum",
+                          "evmos",
+                          "near",
+                          "polkadot",
+                          "smart-contract",
+                          "smart-contracts",
+                          "solana",
+                          "starknet",
+                          "substrate",
+                          "sui",
+                          "tezos"
+                        ]
                       },
                       "first_seen": "2026-08-28T15:15:10.473Z"
                     }
@@ -1132,15 +1698,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:10.473Z",
+    "last_updated": "2026-08-29T04:20:28.785Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⚡️Curated list of resources for the development and applications of blockchain.",
+      "homepage": null,
       "id": 127364556,
       "language": "Go",
+      "license": "MIT",
       "last_commit": "2024-03-22T07:23:48Z",
+      "open_issues": 51,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3628
+      "stars": 3628,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bitcoin",
+        "blockchain",
+        "bulletproofs",
+        "digital-currency",
+        "dpos",
+        "eos",
+        "eosio",
+        "ethereum",
+        "fabric",
+        "iota",
+        "ipfs",
+        "mastering-bitcoin",
+        "mastering-ethereum",
+        "monero",
+        "pbft",
+        "pos",
+        "pow",
+        "white-paper"
+      ]
     },
     "original_repository_sha": "1f33bdb2f89cadea47663dc21a9254de9c238833",
     "enhanced_repository": "enhansome/enhansome-blockchain",
