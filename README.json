@@ -21,7 +21,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25300,
+                "stars": 25303,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -44,11 +44,11 @@
                 "id": 14531737,
                 "language": "Wikitext",
                 "license": null,
-                "last_commit": "2026-09-03T23:28:08Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-09T20:56:23Z",
+                "open_issues": 58,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10934,
+                "stars": 10932,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -63,11 +63,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:35:58Z",
-            "open_issues": 732,
+            "last_commit": "2026-09-09T20:23:27Z",
+            "open_issues": 733,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90133,
+            "stars": 90141,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -187,11 +187,11 @@
                     "id": 64700934,
                     "language": "Solidity",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T20:30:33Z",
-                    "open_issues": 375,
+                    "last_commit": "2026-09-09T21:46:28Z",
+                    "open_issues": 377,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27231,
+                    "stars": 27234,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -263,11 +263,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-08T09:19:09Z",
-                    "open_issues": 508,
+                    "last_commit": "2026-09-09T15:17:06Z",
+                    "open_issues": 507,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13973,
+                    "stars": 13974,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -284,11 +284,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-08T09:19:09Z",
-                    "open_issues": 508,
+                    "last_commit": "2026-09-09T15:17:06Z",
+                    "open_issues": 507,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13973,
+                    "stars": 13974,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -605,7 +605,7 @@
             "open_issues": 8,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "blockchain",
               "content-addressable-storage",
@@ -718,7 +718,7 @@
             "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
-            "stars": 1000,
+            "stars": 999,
             "topics": [
               "bitcoin",
               "gocoin",
@@ -926,11 +926,11 @@
                 "id": 19316619,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T13:35:27Z",
-                "open_issues": 648,
+                "last_commit": "2026-09-09T20:21:17Z",
+                "open_issues": 614,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10841,
+                "stars": 10842,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1029,7 +1029,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11170,
+                "stars": 11171,
                 "topics": [
                   "eosio"
                 ]
@@ -1073,7 +1073,7 @@
                 "open_issues": 52,
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3630,
+                "stars": 3631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1115,7 +1115,7 @@
                 "open_issues": 52,
                 "owner": "yjjnls",
                 "repo": "awesome-blockchain",
-                "stars": 3630,
+                "stars": 3631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1185,7 +1185,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23058,
+                "stars": 23059,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1216,7 +1216,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23058,
+                "stars": 23059,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1454,7 +1454,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25300,
+                "stars": 25303,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1698,7 +1698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:03:26.649Z",
+    "last_updated": "2026-09-10T08:02:47.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -1710,7 +1710,7 @@
       "open_issues": 52,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3630,
+      "stars": 3631,
       "topics": [
         "awesome",
         "awesome-list",
