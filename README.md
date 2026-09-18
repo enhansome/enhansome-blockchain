@@ -195,14 +195,14 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ## Development Tutorial
 
-### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,185 | 🐛 726 | 🌐 C++ | 📅 2026-09-17
+### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,192 | 🐛 731 | 🌐 C++ | 📅 2026-09-17
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
 **Bitcoin** is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses **peer-to-peer** technology to **operate with no central authority**: managing transactions and issuing money are carried out collectively by the network.
 
-* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,316 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
-* [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips/) ⭐ 10,941 | 🐛 58 | 🌐 Wikitext | 📅 2026-09-16
+* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,318 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
+* [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips/) ⭐ 10,942 | 🐛 60 | 🌐 Wikitext | 📅 2026-09-16
 * [BitCoin white paper: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) / [Chinese version](BitCoin/white%20paper.md) / [Annotated BitCoin white paper](https://fermatslibrary.com/s/bitcoin)
 
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -223,7 +223,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 These apps run on a custom built **blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.**
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,531 | 🐛 1 | 📅 2026-08-31 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,077 | 🐛 25 | 🌐 Vue | 📅 2024-05-07
-* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,531 | 🐛 1 | 📅 2026-08-31 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,976 | 🐛 522 | 🌐 Python | 📅 2026-09-16
+* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,531 | 🐛 1 | 📅 2026-08-31 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,977 | 🐛 522 | 🌐 Python | 📅 2026-09-18
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) / [Chinese version](https://github.com/yuange1024/ethereum_yellowpaper) ⭐ 431 | 🐛 0 | 🌐 TeX | 📅 2026-01-15
 * [Ethereum white paper](https://github.com/ethereum/wiki/wiki/White-Paper) / [Chinese version](./Ethereum/white%20paper.md) / [Annotated Ethereum white paper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
 * [Ethereum wiki](https://github.com/ethereum/wiki/wiki)
@@ -246,15 +246,15 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 * [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 * Security
-  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,241 | 🐛 372 | 🌐 Solidity | 📅 2026-09-16 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
+  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,242 | 🐛 364 | 🌐 Solidity | 📅 2026-09-17 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
   * [openzepplin sdk](https://github.com/OpenZeppelin/openzeppelin-sdk) ⚠️ Archived
   * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) / [Chinese version](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
   * [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
   * [The Hitchhiker's Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
   * [**OpenZeppelin**](https://docs.openzeppelin.com/openzeppelin/)
 * Token
-  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 13,976 | 🐛 522 | 🌐 Python | 📅 2026-09-16 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,241 | 🐛 372 | 🌐 Solidity | 📅 2026-09-16
-  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 13,976 | 🐛 522 | 🌐 Python | 📅 2026-09-16 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,241 | 🐛 372 | 🌐 Solidity | 📅 2026-09-16
+  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 13,977 | 🐛 522 | 🌐 Python | 📅 2026-09-18 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,242 | 🐛 364 | 🌐 Solidity | 📅 2026-09-17
+  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 13,977 | 🐛 522 | 🌐 Python | 📅 2026-09-18 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,242 | 🐛 364 | 🌐 Solidity | 📅 2026-09-17
 
 - Utils
   * [Ethereum Blockchain Explorer](https://etherscan.io/)
@@ -384,13 +384,13 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
   * [*Part 6: Transactions 2*](https://jeiwan.net/posts/building-blockchain-in-go-part-6/)
   * [*Part 7: Network*](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
 * [**C++**: *Blockchain from Scratch*](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.cpp) ⭐ 3,779 | 🐛 8 | 🌐 Ruby | 📅 2023-02-10
-* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/SavjeeTutorials/SavjeeCoin) ⭐ 1,771 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
+* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/SavjeeTutorials/SavjeeCoin) ⭐ 1,772 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin) ⭐ 1,288 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-28
 * [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js) ⭐ 1,131 | 🐛 2 | 🌐 JavaScript | 📅 2022-03-17
-* [**Go**: *GoCoin - A full Bitcoin solution written in Go language (golang)*](https://github.com/piotrnar/gocoin) ⭐ 999 | 🐛 8 | 🌐 Go | 📅 2026-09-16
+* [**Go**: *GoCoin - A full Bitcoin solution written in Go language (golang)*](https://github.com/piotrnar/gocoin) ⭐ 999 | 🐛 8 | 🌐 Go | 📅 2026-09-17
 * [**JavaScript**: *Code for Blockchain Demo*](https://github.com/seanjameshan/blockchain) ⭐ 949 | 🐛 35 | 🌐 JavaScript | 📅 2023-07-07
 * [**Go**: *Having fun implementing a blockchain using Golang*](https://github.com/izqui/blockchain) ⭐ 847 | 🐛 7 | 🌐 Go | 📅 2014-08-28
-* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 679 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
+* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 * [**Ruby**: *lets-build-a-blockchain*](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain) ⭐ 444 | 🐛 1 | 🌐 Ruby | 📅 2017-10-23
 * [**Go**: *NaiveChain - A naive and simple implementation of blockchains*](https://github.com/kofj/naivechain) ⭐ 326 | 🐛 0 | 🌐 Go | 📅 2017-04-20
 * [**Go**: *GoChain - A basic implementation of blockchain in go*](https://github.com/crisadamo/gochain) ⭐ 277 | 🐛 2 | 🌐 Go | 📅 2018-02-23
@@ -442,7 +442,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 **Quorum** is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
 
-**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,346 | 🐛 425 | 🌐 Go | 📅 2026-09-17 and is updated in line with go-ethereum releases.
+**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,345 | 🐛 434 | 🌐 Go | 📅 2026-09-18 and is updated in line with go-ethereum releases.
 
 Key enhancements over go-ethereum:
 
@@ -453,7 +453,7 @@ Key enhancements over go-ethereum:
 * **Peer Permissioning** - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * **Higher Performance** - Quorum offers significantly higher performance than public geth
 
-[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 10,854 | 🐛 644 | 🌐 C++ | 📅 2026-09-10
+[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 10,857 | 🐛 645 | 🌐 C++ | 📅 2026-09-10
 
 ### Monero
 
@@ -473,7 +473,7 @@ Key enhancements over go-ethereum:
 * [Review of the Cryptonote White Paper](https://downloads.getmonero.org/whitepaper_review.pdf) - By the research lab of Monero
 * [Cryptonote Standards](https://cryptonote.org/cns) - The 10 Cryptonote standards (equivalent to BIPs for Bitcoin)
 
-- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 10,854 | 🐛 644 | 🌐 C++ | 📅 2026-09-10
+- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 10,857 | 🐛 645 | 🌐 C++ | 📅 2026-09-10
 - [**What is Monero? Most Comprehensive Guide**](https://blockgeeks.com/guides/monero/) / [Chinese version](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/monero/what-is-monero.md) ⭐ 2,455 | 🐛 6 | 🌐 Go | 📅 2025-03-24
 - [**Roadmap**](https://www.getmonero.org/resources/roadmap/)
 - [**More resouces**](./Extension/monero.md)
@@ -523,14 +523,14 @@ Key enhancements over go-ethereum:
 
 **IPFS** ([the InterPlanetary File System](https://github.com/ipfs/faq/issues/76) ⚠️ Archived) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
 
-**IPFS** is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf?raw=true) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01.
+**IPFS** is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf?raw=true) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01.
 
 **IPFS** is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It *is* crazy.
 
-* [Protocol Implementations](https://github.com/ipfs/ipfs#protocol-implementations) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01
-* [HTTP Client Libraries](https://github.com/ipfs/ipfs#http-client-libraries) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01
+* [Protocol Implementations](https://github.com/ipfs/ipfs#protocol-implementations) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01
+* [HTTP Client Libraries](https://github.com/ipfs/ipfs#http-client-libraries) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01
   ![]()
-* [Specs](https://github.com/ipfs/specs) ⭐ 1,240 | 🐛 91 | 🌐 HTML | 📅 2026-09-17 - Specifications on the IPFS protocol
+* [Specs](https://github.com/ipfs/specs) ⭐ 1,240 | 🐛 90 | 🌐 HTML | 📅 2026-09-17 - Specifications on the IPFS protocol
 * [Notes](https://github.com/ipfs/notes) ⚠️ Archived - Various relevant notes and discussions (that do not fit elsewhere)
   [<img src="https://camo.githubusercontent.com/651f7045071c78042fec7f5b9f015e12589af6d5/68747470733a2f2f697066732e696f2f697066732f516d514a363850464d4464417367435a76413155567a7a6e3138617356636637485676434467706a695343417365" align="right" width="200">](https://github.com/ipfs)
 * [Reading-list](https://github.com/ipfs/reading-list) ⚠️ Archived - Papers to read to understand IPFS
@@ -573,7 +573,7 @@ Key enhancements over go-ethereum:
 
 ### Books
 
-* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,316 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,318 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
   by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
   *What Is Bitcoin? ++
   How Bitcoin Works ++
@@ -608,7 +608,7 @@ Key enhancements over go-ethereum:
   Decentralized Apps ++
   Ethereum Standards (EIPs/ERCs)*
 
-* [**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 679 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
+* [**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
   by Gerald Bauer et al, 2018 - FREE (Online Version) --
   *(Crypto) Hash ++
   (Crypto) Block ++
@@ -831,4 +831,4 @@ If you found this resource helpful, give it a 🌟 otherwise contribute to it an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
