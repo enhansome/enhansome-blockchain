@@ -21,7 +21,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25333,
+                "stars": 25331,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "Bitcoin Improvement Proposals (BIPs)",
-              "description": null,
+              "description": "bitcoin/bips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -44,11 +44,11 @@
                 "id": 14531737,
                 "language": "Wikitext",
                 "license": null,
-                "last_commit": "2026-09-28T15:24:34Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-02T13:27:57Z",
+                "open_issues": 64,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10953,
+                "stars": 10950,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -63,11 +63,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:21:23Z",
-            "open_issues": 760,
+            "last_commit": "2026-10-02T23:42:03Z",
+            "open_issues": 764,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90306,
+            "stars": 90299,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -97,7 +97,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -131,7 +131,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -188,10 +188,10 @@
                     "language": "Solidity",
                     "license": "MIT",
                     "last_commit": "2026-10-01T13:14:16Z",
-                    "open_issues": 357,
+                    "open_issues": 358,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27262,
+                    "stars": 27266,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -205,7 +205,7 @@
                 {
                   "node_type": "item",
                   "title": "openzepplin sdk",
-                  "description": null,
+                  "description": "OpenZeppelin/openzeppelin-sdk",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -263,11 +263,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T08:35:59Z",
-                    "open_issues": 530,
+                    "last_commit": "2026-10-02T10:32:55Z",
+                    "open_issues": 527,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13994,
+                    "stars": 13993,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -284,11 +284,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T08:35:59Z",
-                    "open_issues": 530,
+                    "last_commit": "2026-10-02T10:32:55Z",
+                    "open_issues": 527,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 13994,
+                    "stars": 13993,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -310,7 +310,7 @@
                 {
                   "node_type": "item",
                   "title": "Ethereum Consortium Network Deployments Made Easy",
-                  "description": null,
+                  "description": "CatalystCode/ibera-ethereum-consortium-blockchain-network",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -356,7 +356,7 @@
                 {
                   "node_type": "item",
                   "title": "Getting start",
-                  "description": null,
+                  "description": "xuperchain/xuperchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -377,7 +377,7 @@
                 {
                   "node_type": "item",
                   "title": "Comparation with Fabric and Ethereum",
-                  "description": null,
+                  "description": "xuperchain/xuperchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -403,7 +403,7 @@
                     {
                       "node_type": "item",
                       "title": "Go SDK",
-                      "description": null,
+                      "description": "xuperchain/xuper-java-sdk",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -424,7 +424,7 @@
                     {
                       "node_type": "item",
                       "title": "Java SDK",
-                      "description": null,
+                      "description": "xuperchain/xuper-python-sdk",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -445,7 +445,7 @@
                     {
                       "node_type": "item",
                       "title": "Python SDK",
-                      "description": null,
+                      "description": "xuperchain/xuper-python-sdk",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -466,7 +466,7 @@
                     {
                       "node_type": "item",
                       "title": "Javascript SDK",
-                      "description": null,
+                      "description": "xuperchain/xuper-sdk-js",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -541,7 +541,7 @@
         {
           "node_type": "item",
           "title": "JavaScript: A web-based demonstration of blockchain concepts",
-          "description": null,
+          "description": "anders94/blockchain-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -554,7 +554,7 @@
             "open_issues": 11,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5667,
+            "stars": 5664,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -592,7 +592,7 @@
         {
           "node_type": "item",
           "title": "C++: Blockchain from Scratch",
-          "description": null,
+          "description": "openblockchains/awesome-blockchains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -628,7 +628,7 @@
         {
           "node_type": "item",
           "title": "JavaScript: Creating a blockchain with JavaScript",
-          "description": null,
+          "description": "Savjee/SavjeeCoin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,7 +653,7 @@
         {
           "node_type": "item",
           "title": "JavaScript: A cryptocurrency implementation in less than 1500 lines of code",
-          "description": null,
+          "description": "conradoqg/naivecoin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,7 +680,7 @@
         {
           "node_type": "item",
           "title": "JavaScript: Build your own Blockchain in JavaScript",
-          "description": null,
+          "description": "nambrot/blockchain-in-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -705,7 +705,7 @@
         {
           "node_type": "item",
           "title": "Go: GoCoin - A full Bitcoin solution written in Go language (golang)",
-          "description": null,
+          "description": "piotrnar/gocoin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "JavaScript: Code for Blockchain Demo",
-          "description": null,
+          "description": "0xs34n/blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -757,7 +757,7 @@
         {
           "node_type": "item",
           "title": "Go: Having fun implementing a blockchain using Golang",
-          "description": null,
+          "description": "izqui/blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -778,7 +778,7 @@
         {
           "node_type": "item",
           "title": "Ruby: Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
-          "description": null,
+          "description": "openblockchains/programming-blockchains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "Ruby: lets-build-a-blockchain",
-          "description": null,
+          "description": "Haseeb-Qureshi/lets-build-a-blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -826,7 +826,7 @@
         {
           "node_type": "item",
           "title": "Go: NaiveChain - A naive and simple implementation of blockchains",
-          "description": null,
+          "description": "kofj/naivechain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,7 +851,7 @@
         {
           "node_type": "item",
           "title": "Go: GoChain - A basic implementation of blockchain in go",
-          "description": null,
+          "description": "crisadamo/gochain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -917,7 +917,7 @@
             {
               "node_type": "item",
               "title": "How to get started",
-              "description": null,
+              "description": "monero-project/monero",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -926,8 +926,8 @@
                 "id": 19316619,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T18:19:04Z",
-                "open_issues": 620,
+                "last_commit": "2026-10-02T19:55:51Z",
+                "open_issues": 603,
                 "owner": "monero-project",
                 "repo": "monero",
                 "stars": 10897,
@@ -983,7 +983,7 @@
             {
               "node_type": "item",
               "title": "How to get started",
-              "description": null,
+              "description": "iotaledger-archive/iri",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1059,92 +1059,8 @@
             },
             {
               "node_type": "item",
-              "title": "Tools",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "⚡️Curated list of resources for the development and applications of blockchain.",
-                "homepage": null,
-                "id": 127364556,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2024-03-22T07:23:48Z",
-                "open_issues": 51,
-                "owner": "yjjnls",
-                "repo": "awesome-blockchain",
-                "stars": 3632,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bitcoin",
-                  "blockchain",
-                  "bulletproofs",
-                  "digital-currency",
-                  "dpos",
-                  "eos",
-                  "eosio",
-                  "ethereum",
-                  "fabric",
-                  "iota",
-                  "ipfs",
-                  "mastering-bitcoin",
-                  "mastering-ethereum",
-                  "monero",
-                  "pbft",
-                  "pos",
-                  "pow",
-                  "white-paper"
-                ]
-              },
-              "first_seen": "2026-08-28T15:15:10.473Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Language Support",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "⚡️Curated list of resources for the development and applications of blockchain.",
-                "homepage": null,
-                "id": 127364556,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2024-03-22T07:23:48Z",
-                "open_issues": 51,
-                "owner": "yjjnls",
-                "repo": "awesome-blockchain",
-                "stars": 3632,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bitcoin",
-                  "blockchain",
-                  "bulletproofs",
-                  "digital-currency",
-                  "dpos",
-                  "eos",
-                  "eosio",
-                  "ethereum",
-                  "fabric",
-                  "iota",
-                  "ipfs",
-                  "mastering-bitcoin",
-                  "mastering-ethereum",
-                  "monero",
-                  "pbft",
-                  "pos",
-                  "pow",
-                  "white-paper"
-                ]
-              },
-              "first_seen": "2026-08-28T15:15:10.473Z"
-            },
-            {
-              "node_type": "item",
               "title": "Roadmap",
-              "description": null,
+              "description": "EOSIO/Documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1172,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "Protocol Implementations",
-              "description": null,
+              "description": "ipfs/ipfs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1101,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23060,
+                "stars": 23057,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1203,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "HTTP Client Libraries",
-              "description": null,
+              "description": "ipfs/ipfs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1132,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23060,
+                "stars": 23057,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1325,7 +1241,7 @@
             {
               "node_type": "item",
               "title": "Roadmap",
-              "description": null,
+              "description": "ipfs/roadmap",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1454,7 +1370,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25333,
+                "stars": 25331,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1481,7 +1397,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1523,7 +1439,7 @@
             {
               "node_type": "item",
               "title": "Blockchain: from Digital Currency to Credit Society",
-              "description": null,
+              "description": "yjjnls/books",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1698,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:37:33.636Z",
+    "last_updated": "2026-10-03T04:35:05.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
