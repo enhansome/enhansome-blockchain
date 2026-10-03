@@ -67,7 +67,7 @@
             "open_issues": 764,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90299,
+            "stars": 90300,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -927,10 +927,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T19:55:51Z",
-                "open_issues": 603,
+                "open_issues": 604,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10897,
+                "stars": 10898,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1614,7 +1614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:05.215Z",
+    "last_updated": "2026-10-03T09:02:55.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -1626,7 +1626,7 @@
       "open_issues": 51,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3632,
+      "stars": 3631,
       "topics": [
         "awesome",
         "awesome-list",

@@ -195,7 +195,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ## Development Tutorial
 
-### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,299 | 🐛 764 | 🌐 C++ | 📅 2026-10-02
+### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,300 | 🐛 764 | 🌐 C++ | 📅 2026-10-02
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
@@ -453,7 +453,7 @@ Key enhancements over go-ethereum:
 * **Peer Permissioning** - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * **Higher Performance** - Quorum offers significantly higher performance than public geth
 
-[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 10,897 | 🐛 603 | 🌐 C++ | 📅 2026-10-02
+[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 10,898 | 🐛 604 | 🌐 C++ | 📅 2026-10-02
 
 ### Monero
 
@@ -473,7 +473,7 @@ Key enhancements over go-ethereum:
 * [Review of the Cryptonote White Paper](https://downloads.getmonero.org/whitepaper_review.pdf) - By the research lab of Monero
 * [Cryptonote Standards](https://cryptonote.org/cns) - The 10 Cryptonote standards (equivalent to BIPs for Bitcoin)
 
-- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 10,897 | 🐛 603 | 🌐 C++ | 📅 2026-10-02
+- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 10,898 | 🐛 604 | 🌐 C++ | 📅 2026-10-02
 - [**What is Monero? Most Comprehensive Guide**](https://blockgeeks.com/guides/monero/) / [Chinese version](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/monero/what-is-monero.md) ⭐ 2,456 | 🐛 6 | 🌐 Go | 📅 2025-03-24
 - [**Roadmap**](https://www.getmonero.org/resources/roadmap/)
 - [**More resouces**](./Extension/monero.md)
