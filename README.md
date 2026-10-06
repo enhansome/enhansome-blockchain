@@ -195,7 +195,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ## Development Tutorial
 
-### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,322 | 🐛 757 | 🌐 C++ | 📅 2026-10-06
+### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,322 | 🐛 756 | 🌐 C++ | 📅 2026-10-06
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
@@ -222,8 +222,8 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 These apps run on a custom built **blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.**
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,530 | 🐛 2 | 📅 2026-09-22 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,079 | 🐛 25 | 🌐 Vue | 📅 2024-05-07
-* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,530 | 🐛 2 | 📅 2026-09-22 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,996 | 🐛 537 | 🌐 Python | 📅 2026-10-06
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,529 | 🐛 1 | 📅 2026-10-06 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,079 | 🐛 25 | 🌐 Vue | 📅 2024-05-07
+* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,529 | 🐛 1 | 📅 2026-10-06 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 13,996 | 🐛 537 | 🌐 Python | 📅 2026-10-06
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) / [Chinese version](https://github.com/yuange1024/ethereum_yellowpaper) ⭐ 431 | 🐛 0 | 🌐 TeX | 📅 2026-01-15
 * [Ethereum white paper](https://github.com/ethereum/wiki/wiki/White-Paper) / [Chinese version](./Ethereum/white%20paper.md) / [Annotated Ethereum white paper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
 * [Ethereum wiki](https://github.com/ethereum/wiki/wiki)
@@ -588,7 +588,7 @@ Key enhancements over go-ethereum:
   Bitcoin Security ++
   Blockchain Applications*
 
-* [**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,530 | 🐛 2 | 📅 2026-09-22 -
+* [**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,529 | 🐛 1 | 📅 2026-10-06 -
   by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
   *What is Ethereum ++
   Introduction ++
