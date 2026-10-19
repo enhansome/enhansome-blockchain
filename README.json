@@ -21,7 +21,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 830,
+                "open_issues": 844,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 292,
@@ -67,7 +67,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25330,
+                "stars": 25329,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -91,10 +91,10 @@
                 "language": "Wikitext",
                 "license": null,
                 "last_commit": "2026-10-02T13:27:57Z",
-                "open_issues": 69,
+                "open_issues": 68,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10971,
+                "stars": 10976,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -109,11 +109,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-16T14:12:39Z",
-            "open_issues": 770,
+            "last_commit": "2026-10-19T08:35:15Z",
+            "open_issues": 773,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90426,
+            "stars": 90439,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -143,7 +143,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -177,7 +177,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -233,11 +233,11 @@
                     "id": 64700934,
                     "language": "Solidity",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T15:11:57Z",
+                    "last_commit": "2026-10-19T08:15:32Z",
                     "open_issues": 353,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27287,
+                    "stars": 27286,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -309,11 +309,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-18T03:23:11Z",
-                    "open_issues": 538,
+                    "last_commit": "2026-10-19T08:19:17Z",
+                    "open_issues": 537,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14033,
+                    "stars": 14034,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -330,11 +330,11 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-18T03:23:11Z",
-                    "open_issues": 538,
+                    "last_commit": "2026-10-19T08:19:17Z",
+                    "open_issues": 537,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14033,
+                    "stars": 14034,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -598,7 +598,7 @@
                 "id": 1157625665,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-12T11:26:58Z",
+                "last_commit": "2026-10-19T04:31:52Z",
                 "open_issues": 0,
                 "owner": "Yaqing2023",
                 "repo": "moltspay",
@@ -646,7 +646,7 @@
             "open_issues": 12,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5661,
+            "stars": 5660,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1123,11 +1123,11 @@
                 "id": 19316619,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T10:20:07Z",
-                "open_issues": 591,
+                "last_commit": "2026-10-18T09:13:50Z",
+                "open_issues": 596,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10930,
+                "stars": 10935,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1249,7 +1249,7 @@
                 "open_issues": 83,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2030,
+                "stars": 2029,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -1270,7 +1270,7 @@
                 "open_issues": 83,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2030,
+                "stars": 2029,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -1544,7 +1544,7 @@
                 "open_issues": 14,
                 "owner": "hashgraph-online",
                 "repo": "standards-sdk",
-                "stars": 1268,
+                "stars": 1269,
                 "topics": [
                   "agents",
                   "ai",
@@ -1746,7 +1746,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25330,
+                "stars": 25329,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1773,7 +1773,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1995,7 +1995,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 830,
+                    "open_issues": 844,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
                     "stars": 292,
@@ -2183,7 +2183,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25330,
+                "stars": 25329,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:56:36.917Z",
+    "last_updated": "2026-10-19T08:44:11.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
