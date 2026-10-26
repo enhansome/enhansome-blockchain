@@ -21,7 +21,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 916,
+                "open_issues": 925,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 297,
@@ -94,7 +94,7 @@
                 "open_issues": 69,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10989,
+                "stars": 10992,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -113,7 +113,7 @@
             "open_issues": 804,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90475,
+            "stars": 90492,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -143,7 +143,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21540,
+                "stars": 21539,
                 "topics": [
                   "blockchain",
                   "book",
@@ -177,7 +177,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21540,
+                "stars": 21539,
                 "topics": [
                   "blockchain",
                   "book",
@@ -237,7 +237,7 @@
                     "open_issues": 342,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27302,
+                    "stars": 27304,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -309,8 +309,8 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-24T16:18:40Z",
-                    "open_issues": 535,
+                    "last_commit": "2026-10-25T11:56:57Z",
+                    "open_issues": 536,
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 14045,
@@ -330,8 +330,8 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-24T16:18:40Z",
-                    "open_issues": 535,
+                    "last_commit": "2026-10-25T11:56:57Z",
+                    "open_issues": 536,
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 14045,
@@ -694,10 +694,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2023-02-10T16:37:58Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3786,
+            "stars": 3784,
             "topics": [
               "blockchain",
               "content-addressable-storage",
@@ -733,7 +733,7 @@
             "open_issues": 2,
             "owner": "Savjee",
             "repo": "SavjeeCoin",
-            "stars": 1775,
+            "stars": 1773,
             "topics": [
               "blockchain",
               "cryptography",
@@ -785,7 +785,7 @@
             "open_issues": 2,
             "owner": "nambrot",
             "repo": "blockchain-in-js",
-            "stars": 1132,
+            "stars": 1131,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1124,7 +1124,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T06:58:06Z",
-                "open_issues": 577,
+                "open_issues": 578,
                 "owner": "monero-project",
                 "repo": "monero",
                 "stars": 10949,
@@ -1226,7 +1226,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11165,
+                "stars": 11164,
                 "topics": [
                   "eosio"
                 ]
@@ -1298,7 +1298,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055,
+                "stars": 23054,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1329,7 +1329,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055,
+                "stars": 23054,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1360,7 +1360,7 @@
                 "open_issues": 91,
                 "owner": "ipfs",
                 "repo": "specs",
-                "stars": 1243,
+                "stars": 1244,
                 "topics": [
                   "ipfs",
                   "p2p",
@@ -1773,7 +1773,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21540,
+                "stars": 21539,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1995,7 +1995,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 916,
+                    "open_issues": 925,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
                     "stars": 297,
@@ -2085,7 +2085,7 @@
                         "open_issues": 17,
                         "owner": "stefanoviana",
                         "repo": "deepalpha",
-                        "stars": 50,
+                        "stars": 51,
                         "topics": [
                           "ai-trading",
                           "algorithmic-trading",
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:18:36.547Z",
+    "last_updated": "2026-10-26T08:46:19.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -2216,7 +2216,7 @@
       "open_issues": 12,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3639,
+      "stars": 3638,
       "topics": [
         "awesome",
         "awesome-list",
