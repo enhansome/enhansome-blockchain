@@ -5,6 +5,97 @@
       "items": [
         {
           "node_type": "group",
+          "title": "Consensus",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RustChain",
+              "description": "Proof-of-Antiquity consensus that rewards vintage hardware. Old computers earn more than new ones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                "homepage": "https://rustchain.org",
+                "id": 970157421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T01:46:05Z",
+                "open_issues": 170,
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 683,
+                "topics": [
+                  "agent-authentication",
+                  "agent-economy",
+                  "ai",
+                  "ai-agents",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralized",
+                  "depin",
+                  "green-computing",
+                  "hardware-attestation",
+                  "hardware-fingerprinting",
+                  "micropayments",
+                  "mining",
+                  "multi-agent-systems",
+                  "open-source",
+                  "proof-of-antiquity",
+                  "solana",
+                  "sovereign-inference",
+                  "sybil-resistance",
+                  "vintage-hardware"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Proof of Antiquity (RustChain)",
+          "description": "Hardware fingerprint-based consensus where vintage hardware attestation creates trust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+            "homepage": "https://rustchain.org",
+            "id": 970157421,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-08T01:46:05Z",
+            "open_issues": 170,
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 683,
+            "topics": [
+              "agent-authentication",
+              "agent-economy",
+              "ai",
+              "ai-agents",
+              "blockchain",
+              "cryptocurrency",
+              "decentralized",
+              "depin",
+              "green-computing",
+              "hardware-attestation",
+              "hardware-fingerprinting",
+              "micropayments",
+              "mining",
+              "multi-agent-systems",
+              "open-source",
+              "proof-of-antiquity",
+              "solana",
+              "sovereign-inference",
+              "sybil-resistance",
+              "vintage-hardware"
+            ]
+          },
+          "first_seen": "2026-10-29T09:46:45.021Z"
+        },
+        {
+          "node_type": "group",
           "title": "Applications",
           "description": null,
           "children": [
@@ -21,7 +112,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 957,
+                "open_issues": 966,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 299,
@@ -64,10 +155,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 192,
+                "open_issues": 193,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25336,
+                "stars": 25335,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -94,7 +185,7 @@
                 "open_issues": 67,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10997,
+                "stars": 10998,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -109,11 +200,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:41:06Z",
-            "open_issues": 793,
+            "last_commit": "2026-10-28T21:22:40Z",
+            "open_issues": 795,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90527,
+            "stars": 90531,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -143,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21538,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -177,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21538,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -233,11 +324,11 @@
                     "id": 64700934,
                     "language": "Solidity",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T04:33:39Z",
-                    "open_issues": 347,
+                    "last_commit": "2026-10-29T08:14:34Z",
+                    "open_issues": 339,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27336,
+                    "stars": 27335,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -310,10 +401,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-27T16:04:30Z",
-                    "open_issues": 534,
+                    "open_issues": 537,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14050,
+                    "stars": 14053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -331,10 +422,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-27T16:04:30Z",
-                    "open_issues": 534,
+                    "open_issues": 537,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14050,
+                    "stars": 14053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -348,6 +439,48 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Proof of Antiquity (RustChain)",
+              "description": "Hardware fingerprint-based consensus where vintage hardware attestation creates trust - Is consortium blockchain better?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                "homepage": "https://rustchain.org",
+                "id": 970157421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T01:46:05Z",
+                "open_issues": 170,
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 683,
+                "topics": [
+                  "agent-authentication",
+                  "agent-economy",
+                  "ai",
+                  "ai-agents",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralized",
+                  "depin",
+                  "green-computing",
+                  "hardware-attestation",
+                  "hardware-fingerprinting",
+                  "micropayments",
+                  "mining",
+                  "multi-agent-systems",
+                  "open-source",
+                  "proof-of-antiquity",
+                  "solana",
+                  "sovereign-inference",
+                  "sybil-resistance",
+                  "vintage-hardware"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            },
             {
               "node_type": "group",
               "title": "Implement a consortium blockchain using ethereum",
@@ -694,10 +827,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2023-02-10T16:37:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3784,
+            "stars": 3783,
             "topics": [
               "blockchain",
               "content-addressable-storage",
@@ -866,6 +999,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rust: RustChain - Proof-of-Antiquity blockchain that rewards vintage hardware",
+          "description": "A Rust+Python hybrid chain where old computers earn more than new ones, supporting 15+ CPU architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+            "homepage": "https://rustchain.org",
+            "id": 970157421,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-08T01:46:05Z",
+            "open_issues": 170,
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 683,
+            "topics": [
+              "agent-authentication",
+              "agent-economy",
+              "ai",
+              "ai-agents",
+              "blockchain",
+              "cryptocurrency",
+              "decentralized",
+              "depin",
+              "green-computing",
+              "hardware-attestation",
+              "hardware-fingerprinting",
+              "micropayments",
+              "mining",
+              "multi-agent-systems",
+              "open-source",
+              "proof-of-antiquity",
+              "solana",
+              "sovereign-inference",
+              "sybil-resistance",
+              "vintage-hardware"
+            ]
+          },
+          "first_seen": "2026-10-29T09:46:45.021Z"
         },
         {
           "node_type": "item",
@@ -1113,6 +1288,55 @@
           "children": [
             {
               "node_type": "item",
+              "title": "RustChain GitHub",
+              "description": "Main repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                "homepage": "https://rustchain.org",
+                "id": 970157421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T01:46:05Z",
+                "open_issues": 170,
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 683,
+                "topics": [
+                  "agent-authentication",
+                  "agent-economy",
+                  "ai",
+                  "ai-agents",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralized",
+                  "depin",
+                  "green-computing",
+                  "hardware-attestation",
+                  "hardware-fingerprinting",
+                  "micropayments",
+                  "mining",
+                  "multi-agent-systems",
+                  "open-source",
+                  "proof-of-antiquity",
+                  "solana",
+                  "sovereign-inference",
+                  "sybil-resistance",
+                  "vintage-hardware"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            }
+          ],
+          "description": "RustChain is an AI Agent DeFi blockchain using Proof of Antiquity (PoA) consensus that rewards vintage hardware. Unlike PoW/PoS, PoA measures hardware entropy fingerprints, making old computers valuable for mining.\nKey features:",
+          "node_type": "group",
+          "title": "RustChain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "How to get started",
               "description": "monero-project/monero",
               "children": [],
@@ -1124,10 +1348,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T06:58:06Z",
-                "open_issues": 585,
+                "open_issues": 589,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10956,
+                "stars": 10961,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1207,6 +1431,55 @@
           "description": "IOTA is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It’s based on a new distributed ledger architecture, the Tangle, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA.\nIOTA is the missing puzzle piece for the Machine Economy to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.",
           "node_type": "group",
           "title": "IOTA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scottcjn/Rustchain",
+              "description": "Official Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                "homepage": "https://rustchain.org",
+                "id": 970157421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T01:46:05Z",
+                "open_issues": 170,
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 683,
+                "topics": [
+                  "agent-authentication",
+                  "agent-economy",
+                  "ai",
+                  "ai-agents",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralized",
+                  "depin",
+                  "green-computing",
+                  "hardware-attestation",
+                  "hardware-fingerprinting",
+                  "micropayments",
+                  "mining",
+                  "multi-agent-systems",
+                  "open-source",
+                  "proof-of-antiquity",
+                  "solana",
+                  "sovereign-inference",
+                  "sybil-resistance",
+                  "vintage-hardware"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            }
+          ],
+          "description": "RustChain is a DePIN (Decentralized Physical Infrastructure Network) blockchain focused on vintage hardware mining. The unique Proof-of-Antiquity consensus gives higher mining weight to older hardware, making your old computers valuable again.\nKey features:",
+          "node_type": "group",
+          "title": "RustChain"
         },
         {
           "children": [
@@ -1298,7 +1571,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23054,
+                "stars": 23055,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1329,7 +1602,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23054,
+                "stars": 23055,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1544,7 +1817,7 @@
                 "open_issues": 13,
                 "owner": "hashgraph-online",
                 "repo": "standards-sdk",
-                "stars": 1272,
+                "stars": 1273,
                 "topics": [
                   "agents",
                   "ai",
@@ -1743,10 +2016,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 192,
+                "open_issues": 193,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25336,
+                "stars": 25335,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1773,7 +2046,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21538,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1984,6 +2257,48 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "RustChain",
+                  "description": "Proof-of-Antiquity blockchain that rewards vintage hardware (PowerPC, SPARC, 68K). Old computers earn higher mining multipliers than modern machines.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                    "homepage": "https://rustchain.org",
+                    "id": 970157421,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-08T01:46:05Z",
+                    "open_issues": 170,
+                    "owner": "Scottcjn",
+                    "repo": "Rustchain",
+                    "stars": 683,
+                    "topics": [
+                      "agent-authentication",
+                      "agent-economy",
+                      "ai",
+                      "ai-agents",
+                      "blockchain",
+                      "cryptocurrency",
+                      "decentralized",
+                      "depin",
+                      "green-computing",
+                      "hardware-attestation",
+                      "hardware-fingerprinting",
+                      "micropayments",
+                      "mining",
+                      "multi-agent-systems",
+                      "open-source",
+                      "proof-of-antiquity",
+                      "solana",
+                      "sovereign-inference",
+                      "sybil-resistance",
+                      "vintage-hardware"
+                    ]
+                  },
+                  "first_seen": "2026-10-29T09:46:45.021Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "x402",
                   "description": "Internet-native payment protocol using HTTP 402 status code for blockchain payments.",
                   "children": [],
@@ -1995,7 +2310,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 957,
+                    "open_issues": 966,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
                     "stars": 299,
@@ -2169,6 +2484,92 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Scottcjn/Rustchain",
+              "description": "Scottcjn/Rustchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+                "homepage": "https://rustchain.org",
+                "id": 970157421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T01:46:05Z",
+                "open_issues": 170,
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 683,
+                "topics": [
+                  "agent-authentication",
+                  "agent-economy",
+                  "ai",
+                  "ai-agents",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralized",
+                  "depin",
+                  "green-computing",
+                  "hardware-attestation",
+                  "hardware-fingerprinting",
+                  "micropayments",
+                  "mining",
+                  "multi-agent-systems",
+                  "open-source",
+                  "proof-of-antiquity",
+                  "solana",
+                  "sovereign-inference",
+                  "sybil-resistance",
+                  "vintage-hardware"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bounties",
+              "description": "25,875+ RTC paid to 260+ contributors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Earn RTC crypto by contributing to the RustChain ecosystem. Bounties from 1-150 RTC. Star, code, write tutorials, find bugs.",
+                "homepage": "https://rustchain.org",
+                "id": 1147677291,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-23T21:25:29Z",
+                "open_issues": 920,
+                "owner": "Scottcjn",
+                "repo": "rustchain-bounties",
+                "stars": 288,
+                "topics": [
+                  "ai-agents",
+                  "blockchain",
+                  "bounties",
+                  "bug-bounty",
+                  "community",
+                  "contributions",
+                  "cryptocurrency",
+                  "earn-crypto",
+                  "first-timers-only",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "open-source",
+                  "rtc-token",
+                  "rustchain",
+                  "vintage-computing"
+                ]
+              },
+              "first_seen": "2026-10-29T09:46:45.021Z"
+            }
+          ],
+          "description": "RustChain is a DePIN (Decentralized Physical Infrastructure Network) for Vintage Hardware with AI-powered hardware fingerprinting and Proof-of-Antiquity consensus. The blockchain where old machines outearn new ones.\nUnique Features:\nGreen Impact: A fleet of vintage machines draws the same power as one modern GPU mining rig while preventing 1,300 kg of manufacturing CO2 and 250 kg of e-waste per year.",
+          "node_type": "group",
+          "title": "RustChain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Mastering Bitcoin:",
               "description": "Programming the Open Blockchain. See on github.",
               "children": [],
@@ -2180,10 +2581,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 192,
+                "open_issues": 193,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25336,
+                "stars": 25335,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2204,7 +2605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:31:45.648Z",
+    "last_updated": "2026-10-29T09:46:45.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -2213,10 +2614,10 @@
       "language": "Go",
       "license": "MIT",
       "last_commit": "2026-10-09T05:04:58Z",
-      "open_issues": 15,
+      "open_issues": 18,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
-      "stars": 3639,
+      "stars": 3640,
       "topics": [
         "awesome",
         "awesome-list",
