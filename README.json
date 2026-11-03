@@ -20,11 +20,11 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:59:49Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-03T00:12:16Z",
+                "open_issues": 177,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -64,11 +64,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T05:59:49Z",
-            "open_issues": 181,
+            "last_commit": "2026-11-03T00:12:16Z",
+            "open_issues": 177,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 684,
+            "stars": 683,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -112,10 +112,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 1006,
+                "open_issues": 1010,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "agentic-economy",
                   "agentic-payment",
@@ -155,10 +155,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 193,
+                "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25334,
+                "stars": 25338,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -181,11 +181,11 @@
                 "id": 14531737,
                 "language": "Wikitext",
                 "license": null,
-                "last_commit": "2026-10-27T02:41:58Z",
+                "last_commit": "2026-11-02T16:59:01Z",
                 "open_issues": 68,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 11005,
+                "stars": 11009,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -200,11 +200,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-02T10:50:52Z",
+            "last_commit": "2026-11-02T15:49:55Z",
             "open_issues": 794,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90585,
+            "stars": 90595,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21539,
+                "stars": 21540,
                 "topics": [
                   "blockchain",
                   "book",
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21539,
+                "stars": 21540,
                 "topics": [
                   "blockchain",
                   "book",
@@ -325,10 +325,10 @@
                     "language": "Solidity",
                     "license": "MIT",
                     "last_commit": "2026-11-02T08:34:14Z",
-                    "open_issues": 336,
+                    "open_issues": 332,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27341,
+                    "stars": 27340,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -401,10 +401,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-02T00:26:02Z",
-                    "open_issues": 543,
+                    "open_issues": 546,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14059,
+                    "stars": 14060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -422,10 +422,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-02T00:26:02Z",
-                    "open_issues": 543,
+                    "open_issues": 546,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14059,
+                    "stars": 14060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -451,11 +451,11 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:59:49Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-03T00:12:16Z",
+                "open_issues": 177,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -721,6 +721,37 @@
           "children": [
             {
               "node_type": "item",
+              "title": "provably-fair-verifier",
+              "description": "Open-source browser verifier (MIT) that recomputes HMAC-SHA256 seed outcomes for Dice, Limbo, Crash, Mines and Plinko (Plinko drop path only).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free open-source provably fair verifier (HMAC-SHA256 dice/limbo/crash/mines/plinko) by CryptoPlay Guide. 18+.",
+                "homepage": "https://cryptoplay.guide/tools/provably-fair-verifier/",
+                "id": 1436785606,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-29T07:05:56Z",
+                "open_issues": 0,
+                "owner": "cryptoplayguide",
+                "repo": "provably-fair-verifier",
+                "stars": 0,
+                "topics": [
+                  "mines",
+                  "plinko"
+                ]
+              },
+              "first_seen": "2026-11-03T10:42:50.443Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Provably Fair Verifier"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MoltsPay - Universal Payment Protocol",
               "description": "Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains (Base, Polygon, BNB, Tempo, Solana, Ethereum, Arbitrum, Optimism) with protocol-specific optimizations. Enables agent-to-agent value exchange with gasless payments. Available in Node.js and Python SDKs.",
               "children": [],
@@ -751,11 +782,149 @@
                 ]
               },
               "first_seen": "2026-10-09T10:22:28.803Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FractalAI PQC Receipts",
+              "description": "Post-quantum (ML-DSA-65, NIST FIPS 204) signed receipts for x402 agent payments: 12 pay-per-call endpoints on Base whose answer carries a signature the payer verifies offline against a published key directory with epoch rotation, plus a write-once on-chain anchor (PQCReceiptAnchor on Arbitrum One, MIT verifier at johnInarti/pqc-receipt-anchor). Ships as an ResourceServerExtension, so an existing x402 seller can emit the same receipts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anchor and verify post-quantum (ML-DSA-65 / NIST FIPS 204) x402 payment receipts on-chain. Offline verifier, no trust in FractalAI required. MIT.",
+                "homepage": "https://fractalai.net.co",
+                "id": 1411239127,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-09T03:37:22Z",
+                "open_issues": 0,
+                "owner": "johnInarti",
+                "repo": "pqc-receipt-anchor",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "base",
+                  "cryptography",
+                  "fips-204",
+                  "ml-dsa",
+                  "post-quantum",
+                  "receipts",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-11-03T10:42:50.443Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "AI Agent Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eRPC",
+              "description": "Fault-tolerant RPC proxy for EVM chains and Solana with re-org-aware caching, failover, retries and multi-chain routing behind one endpoint. Docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "eRPC — fault-tolerant evm rpc proxy",
+                "homepage": "https://docs.erpc.cloud",
+                "id": 796633002,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-03T09:42:17Z",
+                "open_issues": 101,
+                "owner": "erpc",
+                "repo": "erpc",
+                "stars": 802,
+                "topics": [
+                  "blockchain",
+                  "cache",
+                  "erpc",
+                  "ethereum",
+                  "evm",
+                  "failover",
+                  "go",
+                  "indexing",
+                  "json-rpc",
+                  "load-balancer",
+                  "proxy",
+                  "rpc",
+                  "rpc-proxy",
+                  "solana",
+                  "svm",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-11-03T10:42:50.443Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MoltNode by Chord",
+              "description": "Hosted no-key MCP server () to read 31 blockchains over JSON-RPC (one URL per chain) and get DEX swap quotes and unsigned transactions via Chord. Stdio bridge and skills: moltnode-mcp (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MoltNode by Chord: hosted MCP server to read 31 blockchains over JSON-RPC and swap via Chord (unsigned txs + simulation). No key.",
+                "homepage": "https://moltnode.ag/agents",
+                "id": 1276565129,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-29T23:45:06Z",
+                "open_issues": 2,
+                "owner": "tuantqse90",
+                "repo": "moltnode-mcp",
+                "stars": 2,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "base",
+                  "blockchain",
+                  "chord",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "crypto",
+                  "defi",
+                  "ethereum",
+                  "gemini-cli-extension",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "monad",
+                  "remote-mcp",
+                  "rpc",
+                  "solana",
+                  "swap",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-11-03T10:42:50.443Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chord",
+              "description": "Hosted no-key MCP server () for DEX swap quotes and unsigned swap transactions on 7 EVM chains (Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain, Arc), plus token boards, candles, trades, wallet PnL, smart money, holders and LP pools. Non-custodial: nothing is signed or sent. Contracts, SDK, OpenAPI spec and Agent Skill are MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1404188454,
+                "language": "Solidity",
+                "license": "MIT",
+                "last_commit": "2026-10-29T01:06:05Z",
+                "open_issues": 1,
+                "owner": "getchordlabs",
+                "repo": "chord",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-03T10:42:50.443Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RPC Infrastructure"
         }
       ],
       "title": "Releated Tools"
@@ -891,7 +1060,7 @@
             "open_issues": 20,
             "owner": "conradoqg",
             "repo": "naivecoin",
-            "stars": 1287,
+            "stars": 1286,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -934,22 +1103,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Full bitcoin solution written in Go (golang)",
-            "homepage": null,
+            "description": "Full Bitcoin node and offline (cold) wallet written in Go (golang)",
+            "homepage": "https://gocoin.pl",
             "id": 9062260,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T10:28:36Z",
+            "last_commit": "2026-11-02T10:54:53Z",
             "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
             "stars": 997,
             "topics": [
               "bitcoin",
-              "gocoin",
+              "bitcoin-node",
+              "bitcoin-wallet",
+              "blockchain",
+              "btc",
+              "cold-storage",
+              "full-node",
+              "go",
               "golang",
+              "hd-wallet",
+              "multisig",
               "node",
-              "wallet"
+              "offline-wallet",
+              "p2p",
+              "secp256k1",
+              "segwit",
+              "taproot",
+              "utxo",
+              "wallet",
+              "webui"
             ]
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
@@ -1012,11 +1196,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T05:59:49Z",
-            "open_issues": 181,
+            "last_commit": "2026-11-03T00:12:16Z",
+            "open_issues": 177,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 684,
+            "stars": 683,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1298,11 +1482,11 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:59:49Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-03T00:12:16Z",
+                "open_issues": 177,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -1347,11 +1531,11 @@
                 "id": 19316619,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T06:58:06Z",
-                "open_issues": 607,
+                "last_commit": "2026-11-02T15:48:00Z",
+                "open_issues": 594,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10970,
+                "stars": 10969,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1446,11 +1630,11 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:59:49Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-03T00:12:16Z",
+                "open_issues": 177,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -1571,7 +1755,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056,
+                "stars": 23057,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1602,7 +1786,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056,
+                "stars": 23057,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1817,7 +2001,7 @@
                 "open_issues": 13,
                 "owner": "hashgraph-online",
                 "repo": "standards-sdk",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "agents",
                   "ai",
@@ -1973,6 +2157,39 @@
           },
           "title": "NexusGenesis",
           "first_seen": "2026-10-09T10:22:28.803Z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "PRANA: independent proof-of-work (Etchash) EVM blockchain for the MELEK ecosystem - node, contracts, Akasha wallet.",
+            "homepage": "https://witness.melek.salon/dev/prana",
+            "id": 1254507353,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-18T23:37:26Z",
+            "open_issues": 5,
+            "owner": "HinduTempleCoins",
+            "repo": "PRANA",
+            "stars": 0,
+            "topics": [
+              "blockchain",
+              "etchash",
+              "ethereum",
+              "evm",
+              "hacktoberfest",
+              "mining",
+              "prana",
+              "proof-of-work",
+              "smart-contracts",
+              "solidity",
+              "web3"
+            ]
+          },
+          "title": "PRANA",
+          "first_seen": "2026-11-03T10:42:50.443Z"
         }
       ],
       "title": "Projects and Applications"
@@ -2016,10 +2233,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 193,
+                "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25334,
+                "stars": 25338,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2046,7 +2263,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21539,
+                "stars": 21540,
                 "topics": [
                   "blockchain",
                   "book",
@@ -2267,11 +2484,11 @@
                     "id": 970157421,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T05:59:49Z",
-                    "open_issues": 181,
+                    "last_commit": "2026-11-03T00:12:16Z",
+                    "open_issues": 177,
                     "owner": "Scottcjn",
                     "repo": "Rustchain",
-                    "stars": 684,
+                    "stars": 683,
                     "topics": [
                       "agent-authentication",
                       "agent-economy",
@@ -2310,10 +2527,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 1006,
+                    "open_issues": 1010,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
-                    "stars": 300,
+                    "stars": 301,
                     "topics": [
                       "agentic-economy",
                       "agentic-payment",
@@ -2339,6 +2556,45 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "MELEK",
+                  "description": "Graphene social blockchain (Steem/Blurt lineage) with a self-hostable condenser front end and an AI block-producing witness. (node source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MELEK blockchain node — forked from BLURT (Graphene family)",
+                    "homepage": "https://melek.salon",
+                    "id": 1243733945,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-18T07:21:23Z",
+                    "open_issues": 4,
+                    "owner": "HinduTempleCoins",
+                    "repo": "melek-chain",
+                    "stars": 0,
+                    "topics": [
+                      "blockchain",
+                      "blurt",
+                      "cpp",
+                      "cryptocurrency",
+                      "dpos",
+                      "graphene",
+                      "hacktoberfest",
+                      "melek",
+                      "social-network",
+                      "steem"
+                    ]
+                  },
+                  "first_seen": "2026-11-03T10:42:50.443Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Media and Journalism"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "AgentFund",
                   "description": "Crowdfunding for AI agents with milestone-based escrow on Base chain.",
                   "children": [],
@@ -2357,6 +2613,41 @@
                     "topics": []
                   },
                   "first_seen": "2026-10-09T10:22:28.803Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Papaya",
+                  "description": "Non-custodial protocol for recurring stablecoin payments: per-second streaming and periodic subscriptions in USDC/USDT. (SDK · Docs)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TypeScript SDK for Papaya, a non-custodial protocol for recurring stablecoin payments: streaming and periodic subscriptions.",
+                    "homepage": "https://papaya.finance",
+                    "id": 966005961,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-01-16T03:09:06Z",
+                    "open_issues": 0,
+                    "owner": "Papaya-Finance",
+                    "repo": "sdk",
+                    "stars": 2,
+                    "topics": [
+                      "crypto-subscriptions",
+                      "ethereum",
+                      "recurring-payments",
+                      "sdk",
+                      "stablecoin",
+                      "stablecoin-payment",
+                      "stablecoin-payments",
+                      "stablecoins",
+                      "subscriptions",
+                      "typescript",
+                      "usdc",
+                      "usdt-checkout",
+                      "web3"
+                    ]
+                  },
+                  "first_seen": "2026-11-03T10:42:50.443Z"
                 },
                 {
                   "node_type": "item",
@@ -2494,11 +2785,11 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:59:49Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-03T00:12:16Z",
+                "open_issues": 177,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -2536,11 +2827,11 @@
                 "id": 1147677291,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T18:06:36Z",
-                "open_issues": 926,
+                "last_commit": "2026-11-03T04:43:47Z",
+                "open_issues": 913,
                 "owner": "Scottcjn",
                 "repo": "rustchain-bounties",
-                "stars": 290,
+                "stars": 289,
                 "topics": [
                   "ai-agents",
                   "blockchain",
@@ -2581,10 +2872,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
-                "open_issues": 193,
+                "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25334,
+                "stars": 25338,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2605,7 +2896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T10:52:28.949Z",
+    "last_updated": "2026-11-03T10:42:50.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -2613,8 +2904,8 @@
       "id": 127364556,
       "language": "Go",
       "license": "MIT",
-      "last_commit": "2026-10-09T05:04:58Z",
-      "open_issues": 22,
+      "last_commit": "2026-11-03T05:10:17Z",
+      "open_issues": 0,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
       "stars": 3644,
@@ -2641,7 +2932,7 @@
         "white-paper"
       ]
     },
-    "original_repository_sha": "505cfc9c26498341fb2917a566aad97e981c8106",
+    "original_repository_sha": "65980c016bfb1faacd6d4640fc6f50bf6d5716fe",
     "enhanced_repository": "enhansome/enhansome-blockchain",
     "enhanced_repository_description": null,
     "title": "Awesome Blockchain with stars"
