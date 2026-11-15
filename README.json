@@ -21,10 +21,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 1099,
+                "open_issues": 1111,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "agentic-economy",
                   "agentic-payment",
@@ -91,10 +91,10 @@
                 "language": "Wikitext",
                 "license": null,
                 "last_commit": "2026-11-10T22:50:29Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 11025,
+                "stars": 11027,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -110,10 +110,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-13T16:59:34Z",
-            "open_issues": 793,
+            "open_issues": 800,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90674,
+            "stars": 90684,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -237,7 +237,7 @@
                     "open_issues": 345,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27363,
+                    "stars": 27362,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -313,7 +313,7 @@
                     "open_issues": 573,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14074,
+                    "stars": 14075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -334,7 +334,7 @@
                     "open_issues": 573,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14074,
+                    "stars": 14075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -598,11 +598,11 @@
                 "id": 1031873748,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-13T19:55:10Z",
-                "open_issues": 1055,
+                "last_commit": "2026-11-15T05:31:58Z",
+                "open_issues": 1076,
                 "owner": "Chain-Love",
                 "repo": "chain-love",
-                "stars": 299,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-11-11T10:40:46.805Z"
@@ -755,8 +755,8 @@
                 "id": 796633002,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T06:58:54Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-14T18:03:15Z",
+                "open_issues": 127,
                 "owner": "erpc",
                 "repo": "erpc",
                 "stars": 805,
@@ -911,7 +911,7 @@
             "open_issues": 12,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5663,
+            "stars": 5665,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1071,7 +1071,7 @@
             "id": 9062260,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T17:37:09Z",
+            "last_commit": "2026-11-15T01:46:02Z",
             "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
@@ -1114,7 +1114,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-07-07T23:38:05Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "0xs34n",
             "repo": "blockchain",
             "stars": 947,
@@ -1404,10 +1404,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-13T12:25:53Z",
-                "open_issues": 609,
+                "open_issues": 610,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10999,
+                "stars": 10997,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1578,7 +1578,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056,
+                "stars": 23055,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1609,7 +1609,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056,
+                "stars": 23055,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1640,7 +1640,7 @@
                 "open_issues": 91,
                 "owner": "ipfs",
                 "repo": "specs",
-                "stars": 1244,
+                "stars": 1245,
                 "topics": [
                   "ipfs",
                   "p2p",
@@ -2308,10 +2308,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 1099,
+                    "open_issues": 1111,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": [
                       "agentic-economy",
                       "agentic-payment",
@@ -2472,7 +2472,7 @@
                         "open_issues": 17,
                         "owner": "stefanoviana",
                         "repo": "deepalpha",
-                        "stars": 55,
+                        "stars": 56,
                         "topics": [
                           "ai-trading",
                           "algorithmic-trading",
@@ -2566,8 +2566,8 @@
                 "id": 970157421,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T21:49:11Z",
-                "open_issues": 209,
+                "last_commit": "2026-11-15T08:57:08Z",
+                "open_issues": 210,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
                 "stars": 670,
@@ -2609,10 +2609,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-07T02:26:41Z",
-                "open_issues": 929,
+                "open_issues": 931,
                 "owner": "Scottcjn",
                 "repo": "rustchain-bounties",
-                "stars": 290,
+                "stars": 289,
                 "topics": [
                   "ai-agents",
                   "blockchain",
@@ -2677,7 +2677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:04:58.636Z",
+    "last_updated": "2026-11-15T10:39:58.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
