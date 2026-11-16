@@ -21,7 +21,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 1111,
+                "open_issues": 1121,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 307,
@@ -67,7 +67,7 @@
                 "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25349,
+                "stars": 25351,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -94,7 +94,7 @@
                 "open_issues": 61,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 11027,
+                "stars": 11030,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -110,10 +110,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-13T16:59:34Z",
-            "open_issues": 800,
+            "open_issues": 807,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90684,
+            "stars": 90687,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -233,11 +233,11 @@
                     "id": 64700934,
                     "language": "Solidity",
                     "license": "MIT",
-                    "last_commit": "2026-11-13T17:56:35Z",
-                    "open_issues": 345,
+                    "last_commit": "2026-11-16T08:50:20Z",
+                    "open_issues": 344,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27362,
+                    "stars": 27365,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -309,8 +309,8 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-13T21:48:18Z",
-                    "open_issues": 573,
+                    "last_commit": "2026-11-16T10:09:44Z",
+                    "open_issues": 576,
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 14075,
@@ -330,8 +330,8 @@
                     "id": 44971752,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-13T21:48:18Z",
-                    "open_issues": 573,
+                    "last_commit": "2026-11-16T10:09:44Z",
+                    "open_issues": 576,
                     "owner": "ethereum",
                     "repo": "EIPs",
                     "stars": 14075,
@@ -585,6 +585,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "crypto-logos",
+          "description": "SVG logos for 37 major coins by ticker symbol, in light and dark versions. Free, no key, also served by symbol as logoapi.sh/crypto/BTC.svg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free crypto coin logos as SVG by symbol: BTC, ETH, SOL, USDT and 33 more, light and dark. Hot-link logoapi.sh/crypto/BTC.svg or use the files. No API key, no signup, no attribution.",
+            "homepage": "https://logoapi.sh/docs/crypto",
+            "id": 1453738970,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-11-11T19:58:13Z",
+            "open_issues": 0,
+            "owner": "logoapi",
+            "repo": "crypto-logos",
+            "stars": 0,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "coin-icons",
+              "coin-logos",
+              "crypto",
+              "crypto-icons",
+              "crypto-logos",
+              "cryptocurrency",
+              "cryptocurrency-icons",
+              "cryptocurrency-logos",
+              "dark-mode",
+              "ethereum",
+              "free-api",
+              "logo-api",
+              "no-api-key",
+              "svg",
+              "svg-icons",
+              "token-icons",
+              "token-logos",
+              "web3"
+            ]
+          },
+          "first_seen": "2026-11-16T10:57:06.992Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -599,10 +641,10 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-11-15T05:31:58Z",
-                "open_issues": 1076,
+                "open_issues": 1095,
                 "owner": "Chain-Love",
                 "repo": "chain-love",
-                "stars": 302,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-11-11T10:40:46.805Z"
@@ -611,6 +653,47 @@
           "description": null,
           "node_type": "group",
           "title": "Tools Directory"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bunker",
+              "description": "Offline browser tool that shows which crypto addresses expose their public key, on 100+ networks, with a plan to hide them. (Source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline scanner that shows which of your crypto addresses expose their public key, with a calm plan to hide what you can. 100+ networks. Sends nothing.",
+                "homepage": "https://bunker.nosistech.com",
+                "id": 1432938860,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-14T00:15:32Z",
+                "open_issues": 1,
+                "owner": "nosistech",
+                "repo": "nosis-bunker",
+                "stars": 0,
+                "topics": [
+                  "bitcoin",
+                  "crypto",
+                  "ethereum",
+                  "local-first",
+                  "mcp-server",
+                  "offline-first",
+                  "post-quantum",
+                  "privacy",
+                  "quantum-safe",
+                  "security-tools",
+                  "wallet-security",
+                  "zero-dependencies"
+                ]
+              },
+              "first_seen": "2026-11-16T10:57:06.992Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Policy & Security"
         },
         {
           "children": [
@@ -735,6 +818,48 @@
                 ]
               },
               "first_seen": "2026-11-11T10:40:46.805Z"
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-exchange-fees",
+              "description": "Open dataset (JSON/CSV, CC BY 4.0) and stdio MCP server for base-tier maker/taker fees of major CEX, DEX and perp DEX venues; every figure links to the exchange's official fee page with a verification date, and unverifiable values are left blank.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Base-tier maker/taker fees for major crypto exchanges, each read from the official fee page and dated. JSON + CSV, CC BY 4.0.",
+                "homepage": "https://nexualpha.com/rates",
+                "id": 1452662076,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T04:31:12Z",
+                "open_issues": 0,
+                "owner": "BestBerlin",
+                "repo": "crypto-exchange-fees",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "binance",
+                  "bitget",
+                  "bybit",
+                  "crypto",
+                  "crypto-exchange",
+                  "cryptocurrency",
+                  "dataset",
+                  "exchange-fees",
+                  "fintech",
+                  "hyperliquid",
+                  "kraken",
+                  "llm-tools",
+                  "maker-taker",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "okx",
+                  "open-data",
+                  "trading-fees"
+                ]
+              },
+              "first_seen": "2026-11-16T10:57:06.992Z"
             }
           ],
           "description": null,
@@ -755,8 +880,8 @@
                 "id": 796633002,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T18:03:15Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-16T10:47:56Z",
+                "open_issues": 125,
                 "owner": "erpc",
                 "repo": "erpc",
                 "stars": 805,
@@ -911,7 +1036,7 @@
             "open_issues": 12,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5665,
+            "stars": 5664,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1023,7 +1148,7 @@
             "open_issues": 20,
             "owner": "conradoqg",
             "repo": "naivecoin",
-            "stars": 1285,
+            "stars": 1284,
             "topics": [
               "blockchain",
               "cryptocurrency",
@@ -1070,8 +1195,8 @@
             "homepage": "https://gocoin.pl",
             "id": 9062260,
             "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-15T01:46:02Z",
+            "license": "MIT",
+            "last_commit": "2026-11-15T22:00:43Z",
             "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
@@ -1163,7 +1288,7 @@
             "open_issues": 0,
             "owner": "openblockchains",
             "repo": "programming-blockchains",
-            "stars": 679,
+            "stars": 680,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:10.473Z"
@@ -1404,10 +1529,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-13T12:25:53Z",
-                "open_issues": 610,
+                "open_issues": 611,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 10997,
+                "stars": 10998,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1506,7 +1631,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11164,
+                "stars": 11165,
                 "topics": [
                   "eosio"
                 ]
@@ -1578,7 +1703,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055,
+                "stars": 23054,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1609,7 +1734,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23055,
+                "stars": 23054,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -1980,39 +2105,6 @@
           },
           "title": "NexusGenesis",
           "first_seen": "2026-10-09T10:22:28.803Z"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "PRANA: independent proof-of-work (Etchash) EVM blockchain for the MELEK ecosystem - node, contracts, Akasha wallet.",
-            "homepage": "https://witness.melek.salon/dev/prana",
-            "id": 1254507353,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-18T23:37:26Z",
-            "open_issues": 5,
-            "owner": "HinduTempleCoins",
-            "repo": "PRANA",
-            "stars": 0,
-            "topics": [
-              "blockchain",
-              "etchash",
-              "ethereum",
-              "evm",
-              "hacktoberfest",
-              "mining",
-              "prana",
-              "proof-of-work",
-              "smart-contracts",
-              "solidity",
-              "web3"
-            ]
-          },
-          "title": "PRANA",
-          "first_seen": "2026-11-03T10:42:50.443Z"
         }
       ],
       "title": "Projects and Applications"
@@ -2059,7 +2151,7 @@
                 "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25349,
+                "stars": 25351,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2120,7 +2212,7 @@
                 "open_issues": 0,
                 "owner": "openblockchains",
                 "repo": "programming-blockchains",
-                "stars": 679,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -2308,7 +2400,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 1111,
+                    "open_issues": 1121,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
                     "stars": 307,
@@ -2337,43 +2429,25 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "MELEK",
-                  "description": "Graphene social blockchain (Steem/Blurt lineage) with a self-hostable condenser front end and an AI block-producing witness. (node source)",
+                  "title": "SODAX",
+                  "description": "Intent-based cross-network execution layer: swaps, bridging, lending and leverage yield across 20+ networks (Solana, Ethereum, Arbitrum, Base, Stellar, Hedera and more), with a REST API and TypeScript SDK. (SDK · Docs)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "MELEK blockchain node — forked from BLURT (Graphene family)",
-                    "homepage": "https://melek.salon",
-                    "id": 1243733945,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-10-18T07:21:23Z",
-                    "open_issues": 4,
-                    "owner": "HinduTempleCoins",
-                    "repo": "melek-chain",
-                    "stars": 0,
-                    "topics": [
-                      "blockchain",
-                      "blurt",
-                      "cpp",
-                      "cryptocurrency",
-                      "dpos",
-                      "graphene",
-                      "hacktoberfest",
-                      "melek",
-                      "social-network",
-                      "steem"
-                    ]
+                    "description": "Sodax SDKs",
+                    "homepage": "https://sodax-frontend-demo-v2.vercel.app",
+                    "id": 1227923180,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-16T10:38:59Z",
+                    "open_issues": 80,
+                    "owner": "gosodax",
+                    "repo": "sodax-sdks",
+                    "stars": 7,
+                    "topics": []
                   },
-                  "first_seen": "2026-11-03T10:42:50.443Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Media and Journalism"
-            },
-            {
-              "children": [
+                  "first_seen": "2026-11-16T10:57:06.992Z"
+                },
                 {
                   "node_type": "item",
                   "title": "AgentFund",
@@ -2472,7 +2546,7 @@
                         "open_issues": 17,
                         "owner": "stefanoviana",
                         "repo": "deepalpha",
-                        "stars": 56,
+                        "stars": 57,
                         "topics": [
                           "ai-trading",
                           "algorithmic-trading",
@@ -2567,7 +2641,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T08:57:08Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
                 "stars": 670,
@@ -2656,7 +2730,7 @@
                 "open_issues": 194,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25349,
+                "stars": 25351,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2677,7 +2751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T10:39:58.799Z",
+    "last_updated": "2026-11-16T10:57:06.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
@@ -2685,8 +2759,8 @@
       "id": 127364556,
       "language": "Go",
       "license": "MIT",
-      "last_commit": "2026-11-10T11:53:01Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-16T01:47:16Z",
+      "open_issues": 0,
       "owner": "yjjnls",
       "repo": "awesome-blockchain",
       "stars": 3644,
@@ -2713,7 +2787,7 @@
         "white-paper"
       ]
     },
-    "original_repository_sha": "3c39ee0ab47c819107ec911d94a239933d3b81b4",
+    "original_repository_sha": "647e05f05b03058de6033a59aaebd71153a53411",
     "enhanced_repository": "enhansome/enhansome-blockchain",
     "enhanced_repository_description": null,
     "title": "Awesome Blockchain with stars"
