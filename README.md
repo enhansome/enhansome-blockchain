@@ -173,7 +173,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
     -->
 
 * **Applications**
-  * [x402 Payment Protocol](https://github.com/xpaysh/awesome-x402) ⭐ 305 | 🐛 1,159 | 📅 2026-07-28 - HTTP 402-based payment protocol for machine-to-machine USDC transactions on EVM chains
+  * [x402 Payment Protocol](https://github.com/xpaysh/awesome-x402) ⭐ 306 | 🐛 1,168 | 📅 2026-07-28 - HTTP 402-based payment protocol for machine-to-machine USDC transactions on EVM chains
   * [Do You Need a Blockchain?](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain)
   * [What can't blockchain do?](https://www.jianshu.com/p/70f6a29a6296)
   * [More](./Extension/application.md)
@@ -197,14 +197,14 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ## Development Tutorial
 
-### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,715 | 🐛 816 | 🌐 C++ | 📅 2026-11-20
+### [BitCoin](https://github.com/bitcoin/bitcoin) ⭐ 90,723 | 🐛 810 | 🌐 C++ | 📅 2026-11-21
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
 **Bitcoin** is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses **peer-to-peer** technology to **operate with no central authority**: managing transactions and issuing money are carried out collectively by the network.
 
-* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,362 | 🐛 195 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
-* [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips/) ⭐ 11,043 | 🐛 59 | 🌐 Wikitext | 📅 2026-11-17
+* [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,363 | 🐛 195 | 🌐 HTML | 📅 2024-12-26 / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
+* [Bitcoin Improvement Proposals (BIPs)](https://github.com/bitcoin/bips/) ⭐ 11,043 | 🐛 58 | 🌐 Wikitext | 📅 2026-11-20
 * [BitCoin white paper: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) / [Chinese version](BitCoin/white%20paper.md) / [Annotated BitCoin white paper](https://fermatslibrary.com/s/bitcoin)
 
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -225,8 +225,8 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 These apps run on a custom built **blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.**
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,089 | 🐛 24 | 🌐 Vue | 📅 2024-05-07
-* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 14,072 | 🐛 575 | 🌐 Python | 📅 2026-11-18
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,549 | 🐛 1 | 📅 2026-10-12 / [Chinese version](https://github.com/inoutcode/ethereum_book) ⭐ 4,089 | 🐛 24 | 🌐 Vue | 📅 2024-05-07
+* [Important EIPs and ERCs](https://github.com/ethereumbook/ethereumbook/blob/develop/appdx-standards-eip-erc.asciidoc#table-of-most-important-eips-and-ercs) ⭐ 21,549 | 🐛 1 | 📅 2026-10-12 / [EIP list](https://github.com/ethereum/EIPs) ⭐ 14,069 | 🐛 580 | 🌐 Python | 📅 2026-11-21
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) / [Chinese version](https://github.com/yuange1024/ethereum_yellowpaper) ⭐ 431 | 🐛 0 | 🌐 TeX | 📅 2026-01-15
 * [Ethereum white paper](https://github.com/ethereum/wiki/wiki/White-Paper) / [Chinese version](./Ethereum/white%20paper.md) / [Annotated Ethereum white paper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
 * [Ethereum wiki](https://github.com/ethereum/wiki/wiki)
@@ -249,15 +249,15 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 * [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
 * [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 * Security
-  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,371 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
+  * [**openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,361 | 🐛 339 | 🌐 Solidity | 📅 2026-11-20 / [doc](https://docs.openzeppelin.com/contracts/2.x/)
   * [openzepplin sdk](https://github.com/OpenZeppelin/openzeppelin-sdk) ⚠️ Archived
-  * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) / [Chinese version](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
+  * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) / [Chinese version](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
   * [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
   * [The Hitchhiker's Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
   * [**OpenZeppelin**](https://docs.openzeppelin.com/openzeppelin/)
 * Token
-  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 14,072 | 🐛 575 | 🌐 Python | 📅 2026-11-18 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,371 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19
-  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 14,072 | 🐛 575 | 🌐 Python | 📅 2026-11-18 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,371 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19
+  * [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) ⭐ 14,069 | 🐛 580 | 🌐 Python | 📅 2026-11-21 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20) ⭐ 27,361 | 🐛 339 | 🌐 Solidity | 📅 2026-11-20
+  * [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) ⭐ 14,069 | 🐛 580 | 🌐 Python | 📅 2026-11-21 / [impl](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721) ⭐ 27,361 | 🐛 339 | 🌐 Solidity | 📅 2026-11-20
 
 - Utils
   * [Ethereum Blockchain Explorer](https://etherscan.io/)
@@ -370,7 +370,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 ### Tools Directory
 
-* [Chain.Love](https://www.chain.love/) - Open-source directory for comparing blockchain infrastructure and developer tools across RPC nodes, indexers, explorers, bridges, oracles, faucets, SDKs, wallets, security and analytics. ([Source](https://github.com/Chain-Love/chain-love) ⭐ 310 | 🐛 1,140 | 🌐 Python | 📅 2026-11-20)
+* [Chain.Love](https://www.chain.love/) - Open-source directory for comparing blockchain infrastructure and developer tools across RPC nodes, indexers, explorers, bridges, oracles, faucets, SDKs, wallets, security and analytics. ([Source](https://github.com/Chain-Love/chain-love) ⭐ 310 | 🐛 1,142 | 🌐 Python | 📅 2026-11-21)
 * [18btc](https://18btc.cc) - Curated crypto tools directory with hands-on reviews across market data, on-chain analytics, DeFi data, wallets, security tools and office tools. Bilingual Chinese/English.
 * [1000x Leverage](https://1000xleverage.com/) - Evidence-graded comparison of crypto perpetual venues listing 500x–1001x maximum leverage, with chain, model, live status and a per-row check date.
 
@@ -410,7 +410,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 ### RPC Infrastructure
 
-* [eRPC](https://github.com/erpc/erpc) ⭐ 805 | 🐛 170 | 🌐 Go | 📅 2026-11-20 - Fault-tolerant RPC proxy for EVM chains and Solana with re-org-aware caching, failover, retries and multi-chain routing behind one endpoint. [Docs](https://docs.erpc.cloud/)
+* [eRPC](https://github.com/erpc/erpc) ⭐ 806 | 🐛 170 | 🌐 Go | 📅 2026-11-21 - Fault-tolerant RPC proxy for EVM chains and Solana with re-org-aware caching, failover, retries and multi-chain routing behind one endpoint. [Docs](https://docs.erpc.cloud/)
 * [MoltNode by Chord](https://moltnode.ag) - Hosted no-key MCP server (`https://moltnode.ag/mcp`) to read 31 blockchains over JSON-RPC (one URL per chain) and get DEX swap quotes and unsigned transactions via Chord. Stdio bridge and skills: [moltnode-mcp](https://github.com/tuantqse90/moltnode-mcp) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-10-29 (MIT).
 * [Chord](https://github.com/getchordlabs/chord) ⭐ 0 | 🐛 1 | 🌐 Solidity | 📅 2026-10-29 - Hosted no-key MCP server (`https://api.getchord.xyz/v1/mcp`) for DEX swap quotes and unsigned swap transactions on 7 EVM chains (Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain, Arc), plus token boards, candles, trades, wallet PnL, smart money, holders and LP pools. Non-custodial: nothing is signed or sent. Contracts, SDK, OpenAPI spec and Agent Skill are MIT.
 * [gasrent](https://gasrent.click) - TRON energy and bandwidth rental aggregator. Compares providers and delegates 65k to 4M energy to your address, paid in TRX, no KYC. REST API ([docs](https://gasrent.click/api.html), [MIT examples](https://github.com/gasrent/gasrent-api-examples) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-11-04).
@@ -418,8 +418,8 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 ## Implementation of Blockchain
 
-* [**JavaScript**: *A web-based demonstration of blockchain concepts*](https://github.com/anders94/blockchain-demo/) ⭐ 5,664 | 🐛 12 | 🌐 Pug | 📅 2026-11-03
-* [**Go: *Building Blockchain in Go***](https://github.com/Jeiwan/blockchain_go) ⭐ 4,371 | 🐛 50 | 🌐 Go | 📅 2024-06-20 / [Chinese version 1](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/part-1/basic-prototype.md) ⭐ 2,455 | 🐛 6 | 🌐 Go | 📅 2025-03-24 / [Chinese version 2](https://zhangli1.gitbooks.io/dummies-for-blockchain/content/)
+* [**JavaScript**: *A web-based demonstration of blockchain concepts*](https://github.com/anders94/blockchain-demo/) ⭐ 5,663 | 🐛 12 | 🌐 Pug | 📅 2026-11-03
+* [**Go: *Building Blockchain in Go***](https://github.com/Jeiwan/blockchain_go) ⭐ 4,372 | 🐛 50 | 🌐 Go | 📅 2024-06-20 / [Chinese version 1](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/part-1/basic-prototype.md) ⭐ 2,455 | 🐛 6 | 🌐 Go | 📅 2025-03-24 / [Chinese version 2](https://zhangli1.gitbooks.io/dummies-for-blockchain/content/)
   * [*Part 1: Basic Prototype*](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
   * [*Part 2: Proof-of-Work*](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
   * [*Part 3: Persistence and CLI*](https://jeiwan.net/posts/building-blockchain-in-go-part-3/)
@@ -490,7 +490,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 
 **Quorum** is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
 
-**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,478 | 🐛 500 | 🌐 Go | 📅 2026-11-20 and is updated in line with go-ethereum releases.
+**Quorum** is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,480 | 🐛 510 | 🌐 Go | 📅 2026-11-20 and is updated in line with go-ethereum releases.
 
 Key enhancements over go-ethereum:
 
@@ -501,7 +501,7 @@ Key enhancements over go-ethereum:
 * **Peer Permissioning** - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * **Higher Performance** - Quorum offers significantly higher performance than public geth
 
-[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 11,001 | 🐛 564 | 🌐 C++ | 📅 2026-11-19
+[<img src="https://avatars3.githubusercontent.com/u/7450663?s=460&v=4" align="right" width="80">](https://github.com/monero-project/monero) ⭐ 11,004 | 🐛 568 | 🌐 C++ | 📅 2026-11-19
 
 ### Monero
 
@@ -522,7 +522,7 @@ Key enhancements over go-ethereum:
 * [Cryptonote Standards](https://cryptonote.org/cns) - The 10 Cryptonote standards (equivalent to BIPs for Bitcoin)
 * [monerometrics](https://monerometrics.net) - Monero network observatory: chain reorgs, orphan blocks, verified mining pool shares, hashrate and fees, with a free read-only API and MCP server
 
-- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 11,001 | 🐛 564 | 🌐 C++ | 📅 2026-11-19
+- [**How to get started**](https://github.com/monero-project/monero#compiling-monero-from-source) ⭐ 11,004 | 🐛 568 | 🌐 C++ | 📅 2026-11-19
 - [**What is Monero? Most Comprehensive Guide**](https://blockgeeks.com/guides/monero/) / [Chinese version](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/monero/what-is-monero.md) ⭐ 2,455 | 🐛 6 | 🌐 Go | 📅 2025-03-24
 - [**Roadmap**](https://www.getmonero.org/resources/roadmap/)
 - [**More resouces**](./Extension/monero.md)
@@ -572,14 +572,14 @@ Key enhancements over go-ethereum:
 
 **IPFS** ([the InterPlanetary File System](https://github.com/ipfs/faq/issues/76) ⚠️ Archived) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
 
-**IPFS** is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf?raw=true) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01.
+**IPFS** is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf?raw=true) ⭐ 23,051 | 🐛 8 | 📅 2025-05-01.
 
 **IPFS** is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It *is* crazy.
 
-* [Protocol Implementations](https://github.com/ipfs/ipfs#protocol-implementations) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01
-* [HTTP Client Libraries](https://github.com/ipfs/ipfs#http-client-libraries) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01
+* [Protocol Implementations](https://github.com/ipfs/ipfs#protocol-implementations) ⭐ 23,051 | 🐛 8 | 📅 2025-05-01
+* [HTTP Client Libraries](https://github.com/ipfs/ipfs#http-client-libraries) ⭐ 23,051 | 🐛 8 | 📅 2025-05-01
   ![]()
-* [Specs](https://github.com/ipfs/specs) ⭐ 1,245 | 🐛 91 | 🌐 HTML | 📅 2026-09-26 - Specifications on the IPFS protocol
+* [Specs](https://github.com/ipfs/specs) ⭐ 1,245 | 🐛 92 | 🌐 HTML | 📅 2026-11-20 - Specifications on the IPFS protocol
 * [Notes](https://github.com/ipfs/notes) ⚠️ Archived - Various relevant notes and discussions (that do not fit elsewhere)
   [<img src="https://camo.githubusercontent.com/651f7045071c78042fec7f5b9f015e12589af6d5/68747470733a2f2f697066732e696f2f697066732f516d514a363850464d4464417367435a76413155567a7a6e3138617356636637485676434467706a695343417365" align="right" width="200">](https://github.com/ipfs)
 * [Reading-list](https://github.com/ipfs/reading-list) ⚠️ Archived - Papers to read to understand IPFS
@@ -695,7 +695,7 @@ Key features:
 
 ### Books
 
-* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,362 | 🐛 195 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+* [**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) ⭐ 25,363 | 🐛 195 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
   by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
   *What Is Bitcoin? ++
   How Bitcoin Works ++
@@ -710,7 +710,7 @@ Key features:
   Bitcoin Security ++
   Blockchain Applications*
 
-* [**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12 -
+* [**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,549 | 🐛 1 | 📅 2026-10-12 -
   by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
   *What is Ethereum ++
   Introduction ++
@@ -892,7 +892,7 @@ Key features:
 
 #### Internet of Things Applications
 
-* [x402](https://github.com/xpaysh/awesome-x402) ⭐ 305 | 🐛 1,159 | 📅 2026-07-28 - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
+* [x402](https://github.com/xpaysh/awesome-x402) ⭐ 306 | 🐛 1,168 | 📅 2026-07-28 - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 * [Chronicled](http://www.chronicled.com) - IoT devices registry on blockchain.
 * [Filament](http://filament.com) - Software and hardware for decentralized Intranet of Things systems
 * [IOTA](http://www.iotatoken.com) - Decentralized Internet of Things token on blockless blockchain.
@@ -930,7 +930,7 @@ Key features:
 
 #### DeFi (Decentralised Finance)
 
-* [SODAX](https://sodax.com) - Intent-based cross-network execution layer: swaps, bridging, lending and leverage yield across 20+ networks (Solana, Ethereum, Arbitrum, Base, Stellar, Hedera and more), with a REST API and TypeScript SDK. ([SDK](https://github.com/gosodax/sodax-sdks) ⭐ 7 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-20 · [Docs](https://docs.sodax.com))
+* [SODAX](https://sodax.com) - Intent-based cross-network execution layer: swaps, bridging, lending and leverage yield across 20+ networks (Solana, Ethereum, Arbitrum, Base, Stellar, Hedera and more), with a REST API and TypeScript SDK. ([SDK](https://github.com/gosodax/sodax-sdks) ⭐ 7 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-20 · [Docs](https://docs.sodax.com))
 * [AgentFund](https://github.com/RioTheGreat-ai/agentfund-escrow) ⭐ 2 | 🐛 0 | 🌐 Solidity | 📅 2026-02-03 - Crowdfunding for AI agents with milestone-based escrow on Base chain.
 * [Papaya](https://papaya.finance/technology/protocol) - Non-custodial protocol for recurring stablecoin payments: per-second streaming and periodic subscriptions in USDC/USDT. ([SDK](https://github.com/Papaya-Finance/sdk) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-16 · [Docs](https://docs.papaya.finance))
 * [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS) ⭐ 0 | 🐛 0 | 📅 2026-04-25 - Self-hosted wallet-as-a-service for AI agents with multi-chain support (EVM + Solana) and DeFi integrations.
@@ -966,9 +966,9 @@ Key features:
 
 **Unique Features**:
 
-* [GitHub](https://github.com/Scottcjn/Rustchain) ⭐ 663 | 🐛 188 | 🌐 Python | 📅 2026-11-19 - Source code
+* [GitHub](https://github.com/Scottcjn/Rustchain) ⭐ 662 | 🐛 188 | 🌐 Python | 📅 2026-11-19 - Source code
 
-* [Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 285 | 🐛 921 | 🌐 Python | 📅 2026-11-07 - 25,875+ RTC paid to 260+ contributors
+* [Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 284 | 🐛 924 | 🌐 Python | 📅 2026-11-07 - 25,875+ RTC paid to 260+ contributors
 
 * **Proof of Antiquity**: Hardware value increases with age - a PowerBook G4 from 2003 earns 2.5x more than a modern Threadripper
 
@@ -999,7 +999,7 @@ Key features:
 
 ### Keep learning
 
-* [Mastering Bitcoin:](https://amzn.to/2KWexcc) Programming the Open Blockchain. See on [github.](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,362 | 🐛 195 | 🌐 HTML | 📅 2024-12-26
+* [Mastering Bitcoin:](https://amzn.to/2KWexcc) Programming the Open Blockchain. See on [github.](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,363 | 🐛 195 | 🌐 HTML | 📅 2024-12-26
 
 * [链小知区块链: Token approvals](https://lianxiaozhi.com/learn/token-approvals) - Simplified Chinese, source-linked explainer distinguishing ERC-20 allowances from disconnecting a dapp, with owner/spender/network checks and revocation verification.
 
@@ -1044,4 +1044,4 @@ If you found this resource helpful, give it a 🌟 otherwise contribute to it an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
