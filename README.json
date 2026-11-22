@@ -21,7 +21,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 1168,
+                "open_issues": 1180,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 306,
@@ -67,7 +67,7 @@
                 "open_issues": 195,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25363,
+                "stars": 25362,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -94,7 +94,7 @@
                 "open_issues": 58,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 11043,
+                "stars": 11045,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:10.473Z"
@@ -109,11 +109,11 @@
             "id": 1181927,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-21T09:06:01Z",
-            "open_issues": 810,
+            "last_commit": "2026-11-21T18:00:55Z",
+            "open_issues": 815,
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90723,
+            "stars": 90732,
             "topics": [
               "bitcoin",
               "c-plus-plus",
@@ -234,10 +234,10 @@
                     "language": "Solidity",
                     "license": "MIT",
                     "last_commit": "2026-11-20T21:13:02Z",
-                    "open_issues": 339,
+                    "open_issues": 340,
                     "owner": "OpenZeppelin",
                     "repo": "openzeppelin-contracts",
-                    "stars": 27361,
+                    "stars": 27363,
                     "topics": [
                       "ethereum",
                       "evm",
@@ -310,10 +310,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-21T09:01:17Z",
-                    "open_issues": 580,
+                    "open_issues": 582,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14069,
+                    "stars": 14068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -331,10 +331,10 @@
                     "language": "Python",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-21T09:01:17Z",
-                    "open_issues": 580,
+                    "open_issues": 582,
                     "owner": "ethereum",
                     "repo": "EIPs",
-                    "stars": 14069,
+                    "stars": 14068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:15:10.473Z"
@@ -640,11 +640,11 @@
                 "id": 1031873748,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-21T06:57:16Z",
-                "open_issues": 1142,
+                "last_commit": "2026-11-22T09:57:05Z",
+                "open_issues": 1197,
                 "owner": "Chain-Love",
                 "repo": "chain-love",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-11-11T10:40:46.805Z"
@@ -1196,7 +1196,7 @@
             "id": 9062260,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:14:33Z",
+            "last_commit": "2026-11-22T01:28:41Z",
             "open_issues": 8,
             "owner": "piotrnar",
             "repo": "gocoin",
@@ -1309,7 +1309,7 @@
             "open_issues": 0,
             "owner": "volodymyrprokopyuk",
             "repo": "go-blockchain",
-            "stars": 556,
+            "stars": 555,
             "topics": [
               "blockchain",
               "blockchain-from-scratch",
@@ -1529,10 +1529,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T20:19:37Z",
-                "open_issues": 568,
+                "open_issues": 569,
                 "owner": "monero-project",
                 "repo": "monero",
-                "stars": 11004,
+                "stars": 11005,
                 "topics": [
                   "blockchain",
                   "c-plus-plus",
@@ -1598,7 +1598,7 @@
                 "open_issues": 423,
                 "owner": "iotaledger-archive",
                 "repo": "iri",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": [
                   "iota",
                   "iota-core",
@@ -2151,7 +2151,7 @@
                 "open_issues": 195,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25363,
+                "stars": 25362,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2400,7 +2400,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-28T05:17:23Z",
-                    "open_issues": 1168,
+                    "open_issues": 1180,
                     "owner": "xpaysh",
                     "repo": "awesome-x402",
                     "stars": 306,
@@ -2439,8 +2439,8 @@
                     "id": 1227923180,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T19:04:32Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-22T09:37:43Z",
+                    "open_issues": 83,
                     "owner": "gosodax",
                     "repo": "sodax-sdks",
                     "stars": 7,
@@ -2644,7 +2644,7 @@
                 "open_issues": 188,
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 662,
+                "stars": 661,
                 "topics": [
                   "agent-authentication",
                   "agent-economy",
@@ -2730,7 +2730,7 @@
                 "open_issues": 195,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25363,
+                "stars": 25362,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -2751,7 +2751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:52:24.621Z",
+    "last_updated": "2026-11-22T11:02:13.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️Curated list of resources for the development and applications of blockchain.",
